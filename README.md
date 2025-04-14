@@ -7,6 +7,7 @@ This repository contains the dataset, models, and evaluation code from our paper
 **[REALTALK: A 21-Day Real-World Dataset for Long-Term Conversation](https://arxiv.org/abs/2502.13270)**
 
 **Authors**: [Dong-Ho Lee](https://www.danny-lee.info/), [Adyasha Maharana](https://adymaharana.github.io/), [Jay Pujara](https://www.jaypujara.org/), [Xiang Ren](https://www.seanre.com/), [Francesco Barbieri](https://fvancesco.github.io/)
+
 ---
 
 ## 🔁 Continuation of LoCoMo (Evaluating Very Long-Term Conversational Memory of LLM Agents)
