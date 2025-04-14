@@ -1,0 +1,82 @@
+[tool.ruff]
+line-length = 120
+indent-width = 4
+target-version = 'py311'
+output-format = "grouped"
+# In addition to the standard set of exclusions, omit all tests, plus a specific file.
+extend-exclude = []
+
+
+[tool.ruff.lint]
+select = [
+  "B", # flake8-bugbear
+  "D", # docstring errors
+  "E", # pycodestyle errors
+  "F", # pyflakes
+  "I", # isort
+  "W", # pycodestyle warnings
+]
+ignore = [
+  "C901", # too complex
+  "D417", # documentation for every function parameter.
+  "D1",   # missing docstring in public entities
+  "E501", # line too long, handled by black
+  "E741", # ambiguous variable name (e.g., `l` or `O`)
+]
+
+
+[tool.ruff.lint.per-file-ignores]
+# Ignore import violations in all `__init__.py` files.
+"__init__.py" = ["E402", "F401", "F403", "F811"]
+
+
+[tool.ruff.lint.isort]
+lines-after-imports = 2
+combine-as-imports = true
+force-sort-within-sections = true
+
+
+[tool.ruff.lint.pep8-naming]
+classmethod-decorators = [
+  # Allow Pydantic's `@validator` decorator to trigger class method treatment.
+  "pydantic.validator",
+  # Allow SQLAlchemy's dynamic decorators, like `@field.expression`, to trigger class method treatment.
+  "declared_attr",
+  "expression",
+  "comparator",
+]
+
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+
+[tool.ruff.format]
+# Like Black, use double quotes for strings.
+quote-style = "double"
+# Like Black, indent with spaces, rather than tabs.
+indent-style = "space"
+# Like Black, respect magic trailing commas.
+skip-magic-trailing-comma = false
+# Like Black, automatically detect the appropriate line ending.
+line-ending = "auto"
+# Enable reformatting of code snippets in docstrings.
+docstring-code-format = true
+
+
+[tool.pyright]
+# See: https://github.com/microsoft/pyright/blob/main/docs/configuration.md
+pythonVersion = "3.11"
+pythonPlatform = "Linux"
+exclude = []
+
+
+[tool.yamlfix]
+# See: https://lyz-code.github.io/yamlfix/
+line_length = 120
+section_whitelines = 1
+explicit_start = false
+sequence_style = "block_style"
+none_representation = "null"
+quote_basic_values = true
+quote_representation = '"'
