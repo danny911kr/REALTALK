@@ -41,7 +41,8 @@ To address this gap, we introduce **REALTALK**: a 21-day corpus of **authentic, 
 
 1. [Setup](#setup)
 2. [Data](#data)
-3. [Tasks](#tasks)
+3. [Data Analysis](#data-analysis)
+4. [Tasks](#tasks)
    - [Persona Simulation](#persona-simulation)
    - [Memory Probing](#memory-probing)
 
@@ -60,8 +61,74 @@ export OPENAI_API_KEY=sk-...
 
 - `data/*.json`: Preprocessed REALTALK conversations (for evaluation and model input).
 - `data/raw/*.xlsx`: Raw message exports used to construct the dataset.
+- `data/locomo/*.json`: Split version of [LOCOMO synthetic dataset](https://github.com/snap-research/locomo/blob/main/data/locomo10.json)
 
 ---
+
+
+## 📊 Data Analysis
+
+### 🧠 Speaker-Level Emotional Intelligence (EI)
+
+We compare speaker-level emotional intelligence (EI) in **REALTALK** and **LOCOMO** across key attributes such as **self-awareness**, **empathy**, **motivation**, **social skills**, and **self-regulation**.
+
+Each speaker is evaluated using both LLM-based and classifier-based models, generating scores for:
+
+* Reflective frequency
+* Empathy average
+* Emotion and sentiment diversity
+* Social grounding and intimacy
+* Emotional alignment and recovery dynamics
+
+---
+
+**Key Insight**:
+Real-world conversations in REALTALK exhibit **higher emotional diversity** and **greater speaker variance**, while synthetic dialogues in LOCOMO tend to be **uniform**, **overly empathetic**, and **emotionally constrained**.
+
+### 🔍 Comparison Setup
+
+We split the original [LOCOMO dataset](https://github.com/snap-research/locomo/blob/main/data/locomo10.json) into individual participant-level files (under `data/locomo/`) to match the format of REALTALK (under `data/*.json`). This ensures a **fair comparison** between corresponding conversation sessions across both datasets.
+
+Each conversation is analyzed using five **speaker-level emotional intelligence metrics**:
+
+| Metric              | Description                                                                  |
+| ------------------- |------------------------------------------------------------------------------|
+| **Self-Awareness**  | **Speaker**’s ability to recognize and articulate emotions and perspectives. |
+| **Empathy**         | Average empathy score of a **speaker**’s messages.                           |
+| **Motivation**      | **Speaker**’s engagement in maintaining the conversation.                    |
+| **Social Skills**   | **Speaker**’s ability to foster trust and engagement.                        |
+| **Self-Regulation** | **Speaker**’s ability to maintain emotional and sentiment stability.         |
+
+---
+
+### 📊 Example Output
+
+Below is an excerpt of speaker-level results from a LOCOMO chat session (`Chat_1_Caroline_Melanie.json`):
+
+```json
+"reflective_frequencies": {
+  "Caroline": 0.18,
+  "Melanie": 0.09
+},
+"empathy_average": {
+  "Caroline": 3.23,
+  "Melanie": 3.46
+},
+"sentiment_stability": {
+  "Caroline": 0.94,
+  "Melanie": 0.96
+},
+"emotion_diversities": {
+  "Caroline": 1.05,
+  "Melanie": 0.89
+}
+...
+```
+All files were analyzed using the same evaluation pipeline, producing both:
+
+* **Per-turn annotations** (e.g., empathy, motivation)
+* **Aggregate speaker-level metrics** (as shown above)
+
 
 ## 🧪 Tasks
 

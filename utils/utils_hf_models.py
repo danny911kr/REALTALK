@@ -1,6 +1,7 @@
 from typing import Any
 
-from transformers import AutoModelForSequenceClassification, AutoTokenizer, pipeline
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from transformers.pipelines import pipeline
 
 
 HF_AVAILABLE_MODELS = {

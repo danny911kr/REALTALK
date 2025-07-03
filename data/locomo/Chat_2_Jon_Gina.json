@@ -1,0 +1,3947 @@
+{
+    "qa": [
+        {
+            "question": "When Jon has lost his job as a banker?",
+            "answer": "19 January, 2023",
+            "evidence": [
+                "D1:2"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When Gina has lost her job at Door Dash?",
+            "answer": "January, 2023",
+            "evidence": [
+                "D1:3"
+            ],
+            "category": 2
+        },
+        {
+            "question": "How do Jon and Gina both like to destress?",
+            "answer": "by dancing",
+            "evidence": [
+                "D1:7",
+                "D1:6"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What do Jon and Gina both have in common?",
+            "answer": "They lost their jobs and decided to start their own businesses.",
+            "evidence": [
+                "D1:2",
+                "D1:3",
+                "D1:4",
+                "D2:1"
+            ],
+            "category": 1
+        },
+        {
+            "question": "Why did Jon decide to start his dance studio?",
+            "answer": "He lost his job and decided to start his own business to share his passion.",
+            "evidence": [
+                "D1:2",
+                "D1:4"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What Jon thinks the ideal dance studio should look like?",
+            "answer": "By the water, with natural light and Marley flooring",
+            "evidence": [
+                "D1:20",
+                "D2:4",
+                "D2:8"
+            ],
+            "category": 1
+        },
+        {
+            "question": "When is Jon's group performing at a festival?",
+            "answer": "February, 2023",
+            "evidence": [
+                "D1:24"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Gina launch an ad campaign for her store?",
+            "answer": "29 January, 2023",
+            "evidence": [
+                "D2:1"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When was Jon in Paris?",
+            "answer": "28 January 2023",
+            "evidence": [
+                "D2:4"
+            ],
+            "category": 2
+        },
+        {
+            "question": "Which city have both Jean and John visited?",
+            "answer": "Rome",
+            "evidence": [
+                "D2:5",
+                "D15:1"
+            ],
+            "category": 1
+        },
+        {
+            "question": "When did Gina team up with a local artist for some cool designs?",
+            "answer": "February, 2023",
+            "evidence": [
+                "D5:5"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Gina get her tattoo?",
+            "answer": "A few years ago",
+            "evidence": [
+                "D5:15"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Jon start to go to the gym?",
+            "answer": "March, 2023",
+            "evidence": [
+                "D6:1"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Gina open her online clothing store?",
+            "answer": "16 March, 2023",
+            "evidence": [
+                "D6:6"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Jon start expanding his studio's social media presence?",
+            "answer": "April, 2023",
+            "evidence": [
+                "D8:13"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Jon host a dance competition?",
+            "answer": "May, 2023",
+            "evidence": [
+                "D8:13"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Jon go to a fair to get more exposure for his dance studio?",
+            "answer": "24 April, 2023",
+            "evidence": [
+                "D10:1"
+            ],
+            "category": 2
+        },
+        {
+            "question": "Why did Gina decide to start her own clothing store?",
+            "answer": "She always loved fashion trends and finding unique pieces and she lost her job so decided it was time to start her own business.",
+            "evidence": [
+                "D6:8",
+                "D1:3"
+            ],
+            "category": 1
+        },
+        {
+            "question": "Do Jon and Gina start businesses out of what they love?",
+            "answer": "Yes",
+            "evidence": [
+                "D1:4",
+                "D6:8"
+            ],
+            "category": 1
+        },
+        {
+            "question": "When did Gina interview for a design internship?",
+            "answer": "10 May, 2023",
+            "evidence": [
+                "D11:14"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Gina get accepted for the design internship?",
+            "answer": "27 May, 2023",
+            "evidence": [
+                "D12:1"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Jon start reading \"The Lean Startup\"?",
+            "answer": "May, 2023",
+            "evidence": [
+                "D12:6"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Gina develop a video presentation to teach how to style her fashion pieces? ",
+            "answer": "June, 2023",
+            "evidence": [
+                "D13:4"
+            ],
+            "category": 2
+        },
+        {
+            "question": "How did Gina promote her clothes store?",
+            "answer": "worked with an artist to make unique fashion pieces, made limited-edition sweatshirts, got some new offers and promotions for online store, developed a video presentation showing how to style her pieces",
+            "evidence": [
+                "D5:5",
+                "D16:3",
+                "D8:4",
+                "D13:4"
+            ],
+            "category": 1
+        },
+        {
+            "question": "Which events has Jon participated in to promote his business venture?",
+            "answer": "fair, networking events, dance competition",
+            "evidence": [
+                "D10:1",
+                "D16:6",
+                "D8:4"
+            ],
+            "category": 1
+        },
+        {
+            "question": "What does Jon's dance studio offer?",
+            "answer": "one-on-one metoring and training to dancers,  workshops and classes to local schools and centers",
+            "evidence": [
+                "D13:7",
+                "D8:13"
+            ],
+            "category": 1
+        },
+        {
+            "question": "When did Jon receive mentorship to promote his venture?",
+            "answer": "15 June, 2023",
+            "evidence": [
+                "D14:1"
+            ],
+            "category": 2
+        },
+        {
+            "question": "Did Jon and Gina both participate in dance competitions?",
+            "answer": "Yes",
+            "evidence": [
+                "D1:14",
+                "D14:14",
+                "D1:16",
+                "D1:17",
+                "D9:10"
+            ],
+            "category": 1
+        },
+        {
+            "question": "When was Jon in Rome?",
+            "answer": "June 2023",
+            "evidence": [
+                "D15:1"
+            ],
+            "category": 2
+        },
+        {
+            "question": "Which cities has Jon visited?",
+            "answer": "Paris, Rome",
+            "evidence": [
+                "D2:4",
+                "D15:1"
+            ],
+            "category": 1
+        },
+        {
+            "question": "When Jon is planning to open his dance studio?",
+            "answer": "20 June, 2023",
+            "evidence": [
+                "D15:5"
+            ],
+            "category": 2
+        },
+        {
+            "question": "How long did it take for Jon to open his studio?",
+            "answer": "six months",
+            "evidence": [
+                "D1:2",
+                "D15:13"
+            ],
+            "category": 1
+        },
+        {
+            "question": "When did Gina design a limited collection of hoodies?",
+            "answer": "June 2023",
+            "evidence": [
+                "D16:3"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Jon visit networking events for his store?",
+            "answer": "20 June, 2023",
+            "evidence": [
+                "D16:6"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Gina start being recognized by fashion editors?",
+            "answer": "July 2023",
+            "evidence": [
+                "D17:1"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Jon start learning marketing and analytics tools?",
+            "answer": "July, 2023",
+            "evidence": [
+                "D17:4"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Jon and Gina decide to collaborate to create dance content?",
+            "answer": "21 July 2023",
+            "evidence": [
+                "D18:18"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Gina mention Shia Labeouf?",
+            "answer": " 23 July, 2023",
+            "evidence": [
+                "D19:4"
+            ],
+            "category": 2
+        },
+        {
+            "question": "When did Gina go to a dance class with a group of friends?",
+            "answer": "21 July 2023",
+            "evidence": [
+                "D19:6"
+            ],
+            "category": 2
+        },
+        {
+            "question": "What is Gina's favorite style of dance?",
+            "answer": "Contemporary",
+            "evidence": [
+                "D1:9"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What is Jon's favorite style of dance?",
+            "answer": "Contemporary",
+            "evidence": [
+                "D1:8"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What was Gina's favorite dancing memory?",
+            "answer": "Winning first place at a regionals dance competition",
+            "evidence": [
+                "D1:17"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What kind of dance piece did Gina's team perform to win first place?",
+            "answer": "\"Finding Freedom\"",
+            "evidence": [
+                "D1:19"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What do the dancers in the photo represent?",
+            "answer": "They are performing at the festival",
+            "evidence": [
+                "D1:25"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What does Gina say about the dancers in the photo?",
+            "answer": "They look graceful",
+            "evidence": [
+                "D1:26"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What is Jon's attitude towards being part of the dance festival?",
+            "answer": "Glad",
+            "evidence": [
+                "D1:28"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What kind of flooring is Jon looking for in his dance studio?",
+            "answer": "Marley flooring",
+            "evidence": [
+                "D2:8"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What did Gina find for her clothing store on 1 February, 2023?",
+            "answer": "The perfect spot for her store",
+            "evidence": [
+                "D3:2"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What did Gina design for her store?",
+            "answer": "the space, furniture, and decor",
+            "evidence": [
+                "D3:4"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What did Gina want her customers to feel in her store?",
+            "answer": "cozy and comfortable",
+            "evidence": [
+                "D3:6",
+                "D3:8"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What did Jon say about Gina's progress with her store?",
+            "answer": "hard work's paying off",
+            "evidence": [
+                "D3:3"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What made Gina choose the furniture and decor for her store?",
+            "answer": "personal style and customer comfort",
+            "evidence": [
+                "D3:6"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What did Jon say about creating a special experience for customers?",
+            "answer": "It's the key to making them feel welcome and coming back",
+            "evidence": [
+                "D3:9"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What did Gina say about creating an experience for her customers?",
+            "answer": "making them want to come back",
+            "evidence": [
+                "D3:8"
+            ],
+            "category": 4
+        },
+        {
+            "question": "How is Gina's store doing?",
+            "answer": "The store is doing great.",
+            "evidence": [
+                "D4:2"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What does Gina's tattoo symbolize?",
+            "answer": "Freedom and expressing herself through dance",
+            "evidence": [
+                "D5:15"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What did Jon and Gina compare their entrepreneurial journeys to?",
+            "answer": "dancing together and supporting each other",
+            "evidence": [
+                "D6:15",
+                "D6:16"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What advice does Gina give to Jon about running a successful business?",
+            "answer": "build relationships with customers, create a strong brand image, stay positive",
+            "evidence": [
+                "D7:5"
+            ],
+            "category": 4
+        },
+        {
+            "question": "Why did Jon shut down his bank account?",
+            "answer": "for his business",
+            "evidence": [
+                "D8:1"
+            ],
+            "category": 4
+        },
+        {
+            "question": "Why did Gina combine her clothing business with dance?",
+            "answer": "she is passionate about dance and fashion",
+            "evidence": [
+                "D8:8"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What does Jon's dance make him?",
+            "answer": "happy",
+            "evidence": [
+                "D9:5"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What did Gina receive from a dance contest?",
+            "answer": "a trophy",
+            "evidence": [
+                "D9:10"
+            ],
+            "category": 4
+        },
+        {
+            "question": "How does Gina stay confident in her business?",
+            "answer": "By reminding herself of her successes and progress, having a support system, and focusing on why she started",
+            "evidence": [
+                "D10:8"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What kind of professional experience did Gina get accepted for on May 23, 2023?",
+            "answer": "fashion internship",
+            "evidence": [
+                "D12:1"
+            ],
+            "category": 4
+        },
+        {
+            "question": "Where is Gina's fashion internship?",
+            "answer": "fashion department of an international company",
+            "evidence": [
+                "D12:3"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What book is Jon currently reading?",
+            "answer": "The Lean Startup",
+            "evidence": [
+                "D12:6"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What is Jon offering to the dancers at his dance studio?",
+            "answer": "One-on-one mentoring and training",
+            "evidence": [
+                "D13:7"
+            ],
+            "category": 4
+        },
+        {
+            "question": "How does Jon use the clipboard with a notepad attached to it?",
+            "answer": "To set goals, track achievements, and find areas for improvement",
+            "evidence": [
+                "D13:11"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What does Jon tell Gina he won't do?",
+            "answer": "quit",
+            "evidence": [
+                "D14:17"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What did Jon take a trip to Rome for?",
+            "answer": "To clear his mind",
+            "evidence": [
+                "D15:1"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What is Jon working on opening?",
+            "answer": "a dance studio",
+            "evidence": [
+                "D15:3"
+            ],
+            "category": 4
+        },
+        {
+            "question": "How does Gina describe the studio that Jon has opened?",
+            "answer": "amazing",
+            "evidence": [
+                "D15:6"
+            ],
+            "category": 4
+        },
+        {
+            "question": "How does Jon feel about the opening night of his dance studio?",
+            "answer": "excited",
+            "evidence": [
+                "D15:7"
+            ],
+            "category": 4
+        },
+        {
+            "question": "How does Gina describe the feeling that dance brings?",
+            "answer": "magical",
+            "evidence": [
+                "D15:8"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What does Jon plan to do at the grand opening of his dance studio?",
+            "answer": "savor all the good vibes",
+            "evidence": [
+                "D15:9"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What does Gina say to Jon about the grand opening?",
+            "answer": "Let's live it up and make some great memories",
+            "evidence": [
+                "D15:12"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What is the general sentiment about the upcoming grand opening?",
+            "answer": "excitement",
+            "evidence": [
+                "D15:18",
+                "D15:19"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What did Gina make a limited edition line of?",
+            "answer": "Hoodies",
+            "evidence": [
+                "D16:3"
+            ],
+            "category": 4
+        },
+        {
+            "question": "According to Gina, what makes Jon a perfect mentor and guide?",
+            "answer": "His positivity and determination",
+            "evidence": [
+                "D17:7"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What temporary job did Jon take to cover expenses?",
+            "evidence": [
+                "D18:2"
+            ],
+            "category": 5,
+            "adversarial_answer": "Not mentioned"
+        },
+        {
+            "question": "What plans does Jon have after receiving advice at the networking event?",
+            "answer": "Sprucing up his business plan, tweaking his pitch to investors, and working on an online platform.",
+            "evidence": [
+                "D18:10"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What offer does Gina make to Jon regarding social media?",
+            "answer": "Helping with making content and managing his social media accounts.",
+            "evidence": [
+                "D18:13"
+            ],
+            "category": 4
+        },
+        {
+            "question": "What is Jon's favorite style of painting?",
+            "evidence": [
+                "D1:8"
+            ],
+            "category": 5,
+            "adversarial_answer": "Contemporary"
+        },
+        {
+            "question": "What was Jon's favorite dancing memory?",
+            "evidence": [
+                "D1:17"
+            ],
+            "category": 5,
+            "adversarial_answer": "Winning first place at a regionals dance competition"
+        },
+        {
+            "question": "What kind of dance piece did Jon's team perform to win first place?",
+            "evidence": [
+                "D1:19"
+            ],
+            "category": 5,
+            "adversarial_answer": "\"Finding Freedom\""
+        },
+        {
+            "question": "What is Gina's attitude towards participating in the dance festival?",
+            "evidence": [
+                "D1:28"
+            ],
+            "category": 5,
+            "adversarial_answer": "Glad"
+        },
+        {
+            "question": "What kind of flooring is Gina looking for in her dance studio?",
+            "evidence": [
+                "D2:8"
+            ],
+            "category": 5,
+            "adversarial_answer": "Marley flooring"
+        },
+        {
+            "question": "What did Jon find for his clothing store on 1 February, 2023?",
+            "evidence": [
+                "D3:2"
+            ],
+            "category": 5,
+            "adversarial_answer": "The perfect spot for her store"
+        },
+        {
+            "question": "What did Jon design for his store?",
+            "evidence": [
+                "D3:4"
+            ],
+            "category": 5,
+            "adversarial_answer": "the space, furniture, and decor"
+        },
+        {
+            "question": "What did Jon want his customers to feel in her store?",
+            "evidence": [
+                "D3:6",
+                "D3:8"
+            ],
+            "category": 5,
+            "adversarial_answer": "cozy and comfortable"
+        },
+        {
+            "question": "What made Jon choose the furniture and decor for his store?",
+            "evidence": [
+                "D3:6"
+            ],
+            "category": 5,
+            "adversarial_answer": "personal style and customer comfort"
+        },
+        {
+            "question": "How is Jon's store doing?",
+            "evidence": [
+                "D4:2"
+            ],
+            "category": 5,
+            "adversarial_answer": "The store is doing great."
+        },
+        {
+            "question": "What does Jon's tattoo symbolize?",
+            "evidence": [
+                "D5:15"
+            ],
+            "category": 5,
+            "adversarial_answer": "Freedom and expressing himself through dance"
+        },
+        {
+            "question": "Why did Gina shut down her bank account?",
+            "evidence": [
+                "D8:1"
+            ],
+            "category": 5,
+            "adversarial_answer": "for her business"
+        },
+        {
+            "question": "Why did Jon combine his clothing business with dance?",
+            "evidence": [
+                "D8:8"
+            ],
+            "category": 5,
+            "adversarial_answer": "he is passionate about dance and fashion"
+        },
+        {
+            "question": "What did Gina receive from a dance contest?",
+            "evidence": [
+                "D9:10"
+            ],
+            "category": 5,
+            "adversarial_answer": "a trophy"
+        },
+        {
+            "question": "What kind of professional experience did Jon get accepted for on May 23, 2023?",
+            "evidence": [
+                "D12:1"
+            ],
+            "category": 5,
+            "adversarial_answer": "fashion internship"
+        },
+        {
+            "question": "Where is Gina's HR internship?",
+            "evidence": [
+                "D12:3"
+            ],
+            "category": 5,
+            "adversarial_answer": "fashion department of an international company"
+        },
+        {
+            "question": "Where is Jon's fashion internship?",
+            "evidence": [
+                "D12:3"
+            ],
+            "category": 5,
+            "adversarial_answer": "fashion department of an international company"
+        },
+        {
+            "question": "What book is Gina currently reading?",
+            "evidence": [
+                "D12:6"
+            ],
+            "category": 5,
+            "adversarial_answer": "The Lean Startup"
+        },
+        {
+            "question": "How does Gina use the clipboard with a notepad attached to it?",
+            "evidence": [
+                "D13:11"
+            ],
+            "category": 5,
+            "adversarial_answer": "To set goals, track achievements, and find areas for improvement"
+        },
+        {
+            "question": "What did Jon take a trip to Barcelona for?",
+            "evidence": [
+                "D15:1"
+            ],
+            "category": 5,
+            "adversarial_answer": "To clear his mind"
+        },
+        {
+            "question": "What did Jon make a limited edition line of?",
+            "evidence": [
+                "D16:3"
+            ],
+            "category": 5,
+            "adversarial_answer": "Hoodies"
+        },
+        {
+            "question": "What temporary job did Gina take to cover expenses?",
+            "evidence": [
+                "D18:2"
+            ],
+            "category": 5,
+            "adversarial_answer": "Not mentioned"
+        },
+        {
+            "question": "What plans does Gina have after receiving advice at the networking event?",
+            "evidence": [
+                "D18:10"
+            ],
+            "category": 5,
+            "adversarial_answer": "Sprucing up her business plan, tweaking her pitch to investors, and working on an online platform."
+        }
+    ],
+    "conversation": {
+        "speaker_a": "Jon",
+        "speaker_b": "Gina",
+        "session_1_date_time": "4:04 pm on 20 January, 2023",
+        "session_1": [
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:1",
+                "text": "Hey Jon! Good to see you. What's up? Anything new?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D1:2",
+                "text": "Hey Gina! Good to see you too. Lost my job as a banker yesterday, so I'm gonna take a shot at starting my own business."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:3",
+                "text": "Sorry about your job Jon, but starting your own business sounds awesome! Unfortunately, I also lost my job at Door Dash this month. What business are you thinking of?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D1:4",
+                "text": "Sorry to hear that! I'm starting a dance studio 'cause I'm passionate about dancing and it'd be great to share it with others."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:5",
+                "text": "That's cool, Jon! What got you into this biz?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D1:6",
+                "text": "I've been into dancing since I was a kid and it's been my passion and escape. I wanna start a dance studio so I can teach others the joy that dancing brings me."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:7",
+                "text": "Wow Jon, same here! Dance is pretty much my go-to for stress relief. Got any fave styles?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D1:8",
+                "text": "Cool, Gina! I love all dances, but contemporary is my top pick. It's so expressive and powerful! What's your fave?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:9",
+                "text": "Yeah, me too! Contemporary dance is so expressive and graceful - it really speaks to me."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D1:10",
+                "text": "Wow, great idea! Let's go to a dance class, it'll be so much fun!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:11",
+                "text": "Yeah! Let's explore some new dance moves. We should plan a dance session soon!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D1:12",
+                "text": "Yeah definitely! Wanna see my moves next Fri? Can't wait!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:13",
+                "text": "Sounds great, Jon! Next Friday works. Let's boogie!"
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dekkadancers_Mu%C5%BE_z_Malty.jpg"
+                ],
+                "blip_caption": "a photography of a man in a suit is performing a dance",
+                "query": "dancing on stage performance dance competition last year",
+                "dia_id": "D1:14",
+                "re-download": true,
+                "text": "Wow, I'm excited too! This is gonna be great!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:15",
+                "text": "Wow! What did you get?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D1:16",
+                "text": "Woah, that pic's from when my dance crew took home first in a local comp last year. It was amazing up on that stage! I'm super keen to spread that intensity with other peeps. Gina, you ever been in any dance comps or shows?"
+            },
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://upload.wikimedia.org/wikipedia/commons/4/41/2009_NHK_Trophy_Dance_-_Meryl_DAVIS_-_Charlie_WHITE_-_Gold_Medal_-_0948a.jpg"
+                ],
+                "blip_caption": "a photography of a couple of people standing next to each other",
+                "query": "dance competition trophy team",
+                "dia_id": "D1:17",
+                "re-download": true,
+                "text": "I used to compete in a few dance competitions and shows - my fav memory was when my team won first place at a regionals at age fifteen. It was an awesome feeling of accomplishment!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D1:18",
+                "text": "Wow! Winning first place is amazing! What dance were you doing?"
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a large open porch with a fireplace and a view of the water",
+                "dia_id": "D1:19",
+                "text": "Thanks! We just did a contemporary piece called \"Finding Freedom.\" It was really emotional and powerful."
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://live.staticflickr.com/2730/4360526470_6bee96b5d7_b.jpg"
+                ],
+                "blip_caption": "a photography of a room with a view of the ocean and a few yoga mats",
+                "query": "dance studio overlooking ocean",
+                "dia_id": "D1:20",
+                "re-download": true,
+                "text": "Wow, that must've been great! Check my ideal dance studio by the water."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:21",
+                "text": "Cool setup! Man, you can't deny that view! Got time to rehearse with a biz and a new store?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D1:22",
+                "text": "Hopefully, we will find a place like this that will inspire us!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:23",
+                "text": "Wow, it looks great! What dances do you practice? Got any projects planned?"
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://markmorrisdancegroup.org/wp-content/uploads/2021/04/MM0108_JesuMeineFreude_Boston_BrazilTom_02.jpg"
+                ],
+                "blip_caption": "a photo of a group of dancers in white dresses on a stage",
+                "query": "group dancers performing on stage",
+                "dia_id": "D1:24",
+                "text": "Thanks! I rehearsed with a small group of dancers after work. We do all kinds of dances, from contemporary to hip-hop. We've got some cool projects in the works. Finishing up choreography to perform at a nearby festival next month. Can't wait!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:25",
+                "text": "Wow, it looks awesome! Are they yours at the festival? They're so graceful!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D1:26",
+                "text": "Yeah, they're the ones performing at the festival! They've been practicing hard and will definitely impress with their grace and skill."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D1:27",
+                "text": "Wow, they look great! Can't wait to see them rock the festival. Gonna be awesome!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D1:28",
+                "text": "Yeah, awesome! Glad to be part of it."
+            }
+        ],
+        "session_2_date_time": "2:32 pm on 29 January, 2023",
+        "session_2": [
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a clothing store with a variety of clothes on display",
+                "dia_id": "D2:1",
+                "re-download": true,
+                "text": "Hey Jon! Long time no see! Things have been hectic lately. I just launched an ad campaign for my clothing store in hopes of growing the business. Starting my own store and taking risks is both scary and rewarding. I'm excited to see where it takes me!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D2:2",
+                "text": "Hey Gina! Whoa, your store looks great! All your hard work really paid off - congrats! Must be awesome to see your stuff on display."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D2:3",
+                "text": "Thanks a bunch! It's awesome seeing my vision happen. How's the dance studio going? Did you find the right spot?"
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://avvay-aws-production.imgix.net/space-media/space-media-422692-prod.jpg"
+                ],
+                "blip_caption": "a photo of a bathroom with a blue floor and a pink wall",
+                "query": "dance studio natural lighting spacious room large windows dance mirrors",
+                "dia_id": "D2:4",
+                "text": "Hey Gina! Thanks for asking. I'm on the hunt for the ideal spot for my dance studio and it's been quite a journey! I've been looking at different places and picturing how the space would look. I even found a place with great natural light! Oh, I've been to Paris yesterday! It was sooo cool."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D2:5",
+                "text": "Wow, nice spot! Where is it? Got any other features you want to think about before you decide? Paris?! That is really great Jon! Never had a chance to visit it. Been only to Rome once."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D2:6",
+                "text": "It's downtown which is awesome cuz it's easy to get to. Plus the natural light! Gotta check the size & floor quality too. We need a good dance floor with enough bounce for me & my students to dance safely."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D2:7",
+                "text": "Definitely! Dance floors help avoid injuries and make dancing more enjoyable. You thinking about it is great. Any particular type of flooring you like?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D2:8",
+                "text": "Yeah, good flooring's crucial. I'm after Marley flooring, which is what dance studios usually use. It's great 'cause it's grippy but still lets you move, plus it's tough and easy to keep clean."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D2:9",
+                "text": "Sounds great! Marley's perfect; it's got the right amount of grip and movement. Can't wait to see your dance studio done!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D2:10",
+                "text": "Yeah, can't wait to see it done! Looking for the right place and getting everything ready has been a mix of exciting and nerve-wracking, but I'm determined to make it work. It'll be worth it!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D2:11",
+                "text": "Believe in yourself, Jon! The process may be tough, but you got this. Push through and it'll be worth it. Don't forget to take breaks and dance it out when you need to destress!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D2:12",
+                "text": "Glad I have you in my corner! Gotta make time to dance and vent, that's for sure. We'll make it through this - hang in there!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D2:13",
+                "text": "Thanks, Jon! Appreciate your support!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D2:14",
+                "text": "Let's keep going and chase our dreams!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D2:15",
+                "text": "Yeah! We've done so much, and there's nothing but good stuff coming. Let's keep going after our goals and making them happen."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D2:16",
+                "text": "Success is almost here. We got this!"
+            }
+        ],
+        "session_3_date_time": "12:48 am on 1 February, 2023",
+        "session_3": [
+            {
+                "speaker": "Jon",
+                "dia_id": "D3:1",
+                "text": "Hey Gina, hope you're doing ok! Still following my passion for dance. It's been bumpy, but I'm determined to make it work. I'm still searching for a place to open my dance studio."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D3:2",
+                "img_url": [
+                    "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
+                ],
+                "re-download": true,
+                "blip_caption": "a photography of a shopping mall with a glass entrance and a sign",
+                "text": "Hi Jon! So happy you're pushing forward with dancing! Inspiring 💪 I emailed some wholesalers and one replied and said yes today! I'm over the moon because now I can expand my clothing store and get closer to my customers. Check it out - here's a pic!"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a room with a mirror and a wooden floor",
+                "dia_id": "D3:3",
+                "text": "Wow, Gina! You found the perfect spot for your store. Way to go, hard work's paying off!"
+            },
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://live.staticflickr.com/610/23124623885_9aab7b3e2e_b.jpg"
+                ],
+                "blip_caption": "a photography of a clothing store with a lot of clothes on display",
+                "query": "inside of store cozy inviting atmosphere trendy pieces",
+                "dia_id": "D3:4",
+                "re-download": true,
+                "text": "Thanks! Glad you like it. Yeah, it's a great spot. Here's a peek at the space I designed. Cozy and inviting - perfect for customers to check out all the trendy pieces."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D3:5",
+                "text": "Wow, it looks great! Must've taken you ages to design it. What made you pick out the furniture and decor?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D3:6",
+                "text": "Thanks! It took a bit of time but I wanted to make the place look like my own style and make my customers feel cozy. I chose furniture that looks great and is comfy too. The chandelier adds a nice glam feel while matching the style of the store."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D3:7",
+                "text": "Your store looks great - your customers will be so comfy."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D3:8",
+                "text": "Thanks! Making my spot comfortable and inviting for my customers is key. I want 'em to feel like they're in a cool oasis. Just creating an experience that'll make 'em wanna come back."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D3:9",
+                "text": "That's a great goal! Creating a special experience for customers is the key to making them feel welcome and coming back. I think you can create that space you're imagining."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D3:10",
+                "text": "Thanks. Your support means a lot. I'm sure with my hard work and effort, I can make a special shopping experience for my customers. It's tough but I'm up for the challenge!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D3:11",
+                "text": "I'm always here to support you! Go create something awesome with your store. Keep it up!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D3:12",
+                "text": "Thanks, Jon! I'll try my best. You're gonna do great with your dance studio, just keep going and stay positive! We'll get through this!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D3:13",
+                "text": "Thanks! Your words mean a lot. I'm staying positive and pushing forward. We've put our hearts into our dreams and I'm sure we'll make it."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D3:14",
+                "text": "Sure thing, Jon! Stay motivated and keep going. Hard work pays off eventually. We can do this!"
+            }
+        ],
+        "session_4_date_time": "10:43 am on 4 February, 2023",
+        "session_4": [
+            {
+                "speaker": "Jon",
+                "dia_id": "D4:1",
+                "text": "Hey Gina! What's up? How's the store going? I gotta tell you about this thing with my biz."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D4:2",
+                "text": "Hey Jon! The store's doing great! It's a wild ride. How's the biz?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D4:3",
+                "text": "Hey Gina! I'm putting in a lot of work on my business even with the obstacles. I'm gonna make it happen!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D4:4",
+                "text": "Wow! You've got drive! Keep it up and you'll definitely make a splash."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D4:5",
+                "text": "Thanks Gina! Your help really means a lot. Sometimes it's hard when things don't go my way, but I'm sure if I keep pushing, I'll reach my dreams!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D4:6",
+                "text": "Understand where you're at, Jon. Setbacks are just opportunities for comebacks. You got the skills, passion, and drive. Plus my full support. Don't give up, buddy!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D4:7",
+                "text": "Thanks! Setbacks can be tough, but with your support, I can handle anything. Appreciate you having my back!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D4:8",
+                "text": "I'm here for you no matter what! Anything you want to say about your biz?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D4:9",
+                "text": "Searching for a dance studio location has been tricky, but I'm determined to find the right spot - when I do, I'm sure the rest will follow!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D4:10",
+                "text": "Searching for the perfect dance studio's a tough job, Jon. Hang in there and you'll find it soon!"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a woman in a gray dress doing a trick",
+                "dia_id": "D4:11",
+                "text": "Thanks! Appreciate your encouragement - it means a lot! I'm working on my business and some new dance routines - rehearsing hard for an upcoming show. I'm passionate about dancing and it brings me so much joy and fulfillment."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D4:12",
+                "text": "Wow, Jon! You're so talented! What show ya got planned?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D4:13",
+                "text": "I'm getting ready for a dance comp near me next month. It's a great chance for me to show my skillz and, hopefully, get some props from the dance fam. Super stoked!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D4:14",
+                "text": "Wow Jon, you're gonna kill it in that competition. Your hard work and talent will pay off! Good luck."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D4:15",
+                "text": "Thanks! Your help means a lot. I'll do my best to make you proud!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D4:16",
+                "text": "No doubt, Jon you've got this. Your passion and commitment are awesome! Keep it up!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D4:17",
+                "text": "Thanks! I'm going for my dreams!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D4:18",
+                "text": "Absolutely Jon. I'm always here to cheer you on. Make your dreams happen - keep going and believe in yourself. You got this!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D4:19",
+                "text": "Thanks, Gina! Your kind words mean a lot. I won't give up!"
+            }
+        ],
+        "session_5_date_time": "9:32 am on 8 February, 2023",
+        "session_5": [
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a group of women posing with a giant balloon",
+                "dia_id": "D5:1",
+                "re-download": true,
+                "text": "Hey Jon! Great hearing from you again. How have you been? BTW, I found a cool new fashion piece for my store. Can't wait to share with my customers."
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a group of young girls in a dance studio",
+                "dia_id": "D5:2",
+                "re-download": true,
+                "text": "Hey Gina! Congrats on the new fashion piece! Looks like your store is growing. Remenber the festival I told you about? Had that performance and it was awesome - so many people there complementing my dance moves. Dancing brings me joy and it was nice to be reminded why I'm passionate about it."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D5:3",
+                "text": "Wow! That looks great. You look badass on stage. BTW, what's your favorite part of running your own studio?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D5:4",
+                "text": "Thanks, Gina! I love running my own studio. It's great having the freedom to create a space and help dancers of all ages and levels express themselves. I'm super thrilled about dancing each day and seeing my students progress. It's so fulfilling."
+            },
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://circlecraftmarket.files.wordpress.com/2017/11/adhesif-3.jpg"
+                ],
+                "blip_caption": "a photo of a rack of clothes with a coat and a dress",
+                "query": "unique artwork clothing",
+                "dia_id": "D5:5",
+                "text": "That's awesome! I'm sure you feel great knowing your students are doing so well with dance. It's amazing what it can do for people! Oh, and btw - I've been working hard on my online store and just teamed up with a local artist for some cool designs. Check 'em out!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D5:6",
+                "text": "It looks awesome. Your commitment and creativity in your business really stands out. How'd you come up with these cool designs?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D5:7",
+                "text": "Thanks Jon! I got the idea from a fashion mag and saw there wasn't much around like it. So I worked with the artist to make it happen - it's all about being ahead of the game and giving my customers something different."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D5:8",
+                "text": "Nice one, Gina! You never shy away from a challenge and always try something new. I'm impressed by your willingness to take risks - it's really inspiring."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D5:9",
+                "text": "Thanks! Taking risks is scary but it's the only way to grow, right? Just part of the journey to success."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D5:10",
+                "text": "Yeah, I totally agree - taking risks is key for success. It's made me grow, and even got me out of my secure 9-5 as a banker. Now, I'm aiming to turn my dancing passion into a business. I'm determined to make it work, I just know it! That being said, I definitely don't underestimate the difficulties - it ain't been a walk in the park, that's for sure."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D5:11",
+                "text": "It's tough starting a biz, but don't let it get you down. You can make your studio work, I'm sure. And remember, I'm always here for you."
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://live.staticflickr.com/381/19379909243_9683e023fc_z.jpg"
+                ],
+                "blip_caption": "a photography of a cartoon character with a quote about fear",
+                "query": "motivational quote \"everything you want is on the other side of fear\"",
+                "dia_id": "D5:12",
+                "re-download": true,
+                "text": "Thanks, Gina. Your help means a lot. I'll keep plugging away and stay optimistic."
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a woman standing on a balcony with a blue dress",
+                "dia_id": "D5:13",
+                "re-download": true,
+                "text": "This quote kept me positive through tough times. We all need a push sometimes, right? Even made a tattoo to remind myself about it."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D5:14",
+                "text": "Love the tattoo, did you just get it?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D5:15",
+                "text": "Thanks! Got the tattoo a few years ago, it stands for freedom - dancing without worrying what people think. A reminder to follow my passions and express myself."
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a woman in a tutu posing for a picture",
+                "dia_id": "D5:16",
+                "text": "Nice reminder, Gina! It's so important to have freedom and express ourselves without worry. Dance gives me an escape to be myself."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D5:17",
+                "text": "Totally agree, Jon. Dancing lets us be ourselves and ain't nothing like the feeling it gives us. You're so dedicated to your studio, it's inspiring. Chase those dreams, buddy!"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a trophy with a glass globe on top",
+                "dia_id": "D5:18",
+                "text": "Thanks, Gina! Your support means so much. I'm gonna keep chasing after those dreams. Dance is my passion, and I'm gonna keep working hard to make it a success!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D5:19",
+                "text": "This is the right attitude! How have you been juggling dance and business goals?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D5:20",
+                "text": "Thanks! Juggling both my passions can be tricky, but so rewarding. Dancing and running my biz need hard work, plus they give me energy for each other. My dance moves get me pumped to tackle my business goals, and successes there boost my drive to keep dreaming on the dance floor. It's a balancing act, but fun."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D5:21",
+                "text": "Wow, Jon! You're amazing at juggling both your passions. Finding that happy medium is key - keep going and don't stop dreaming, buddy!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D5:22",
+                "text": "Thanks, Gina! Your pep-talk really meant a lot. I'm not gonna give up on my dreams - my dance studio and biz ventures need the hard work I'm putting in. Love having you in my corner, thanks for always being there!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D5:23",
+                "text": "Yeah Jon, I'm here for you! Chasing our dreams and helping each other out. Let's keep movin' forward!"
+            }
+        ],
+        "session_6_date_time": "2:35 pm on 16 March, 2023",
+        "session_6": [
+            {
+                "speaker": "Jon",
+                "dia_id": "D6:1",
+                "text": "Hi Gina! Been hectic for me lately. Started hitting the gym last week to stay on track with the venture. Gotta figure out how to balance it all, but it's going well. How about you?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D6:2",
+                "text": "Hey Jon! Great to hear from you. Been having some tough times lately."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D6:3",
+                "text": "Oof, sorry to hear that. What's up? Is there anything I can do to help?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D6:4",
+                "text": "Thanks, Jon! Appreciate your offer. Since I lost my job at Door Dash, things have been tough. But here's some good news - I've got something to share!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D6:5",
+                "text": "Wow, that's awesome! Can't wait to hear it!"
+            },
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://i.redd.it/i9k97vw6pgs51.jpg"
+                ],
+                "blip_caption": "a photo of a computer screen showing a book and a pair of shoes",
+                "query": "online clothing store website screenshot",
+                "dia_id": "D6:6",
+                "text": "Yay! My online clothes store is open! I've been dreaming of this for a while now - can't wait to see what happens!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D6:7",
+                "text": "Congrats! That's awesome! What gave you the idea to start the online store?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D6:8",
+                "text": "Thanks! I'm passionate about fashion trends and finding unique pieces. Plus, I wanted to blend my love for dance and fashion, so it was a perfect match."
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of three young girls standing next to each other with trophies",
+                "dia_id": "D6:9",
+                "text": "Wow, that's awesome! Combining your two interests into a store is super cool. Best of luck with it!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D6:10",
+                "text": "Thanks! How is biz going? I hope it's going well!"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a laptop computer sitting on top of a table",
+                "dia_id": "D6:11",
+                "text": "Thanks for askin', Gina! Losing my job was hard, but I'm livin' my dreams now. Startin' my biz has been tough but I'm gonna make it! I keep facing new challenges, but I'm sure it'll be worth it in the end."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D6:12",
+                "text": "Yeah, starting and running my own biz has had its ups and downs - but it's been an amazing ride!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D6:13",
+                "text": "Yeah, it's been a rollercoaster. But your success really inspires me to keep pushing forward. Your determination is awesome!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D6:14",
+                "text": "Thanks, Jon! Your words are really encouraging. Glad my journey is inspiring others."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D6:15",
+                "text": "Yeah, totally! It's great we both face the same challenges, it motivates us and it's like having a partner to dance with!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D6:16",
+                "text": "Yep! We're both on different paths, but it's nice to have someone to root for us. We can do it!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D6:17",
+                "text": "Definitely! Having someone back us up is great. Let's keep going and reach success together!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D6:18",
+                "text": "Let's keep chasing our dreams, supporting each other, and celebrating achievements. We can do great things together!"
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://www.news-press.com/gcdn/presto/2018/12/21/PFTM/e043df2d-48d9-4591-a714-f27ecbd42007-GD1.jpg"
+                ],
+                "blip_caption": "a photo of two glasses of champagne with a bottle of wine in the background",
+                "query": "champagne celebration",
+                "dia_id": "D6:19",
+                "text": "Yeah, Gina, thanks for having my back. Here's to taking on new heights, and all the trials that come with it. Cheers!"
+            }
+        ],
+        "session_7_date_time": "7:28 pm on 23 March, 2023",
+        "session_7": [
+            {
+                "speaker": "Jon",
+                "dia_id": "D7:1",
+                "text": "Hey Gina, how's it going?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D7:2",
+                "text": "Hey Jon, my online clothing store has been a roller coaster but rewarding. Starting a business takes courage - you hang in there too!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D7:3",
+                "text": "Thanks Gina! It's been tough, but I'm gonna make it happen. It's been great! And hey, you're awesome with your store. How's it going?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D7:4",
+                "text": "Thanks! Appreciate your kind words. Store's going good, just been keeping up with fashion trends so I can offer the best pieces to customers. It's been a lot of work, but really enjoying it. Got any advice or tips on running a successful biz?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D7:5",
+                "text": "Yeah, brand identity is key. Make sure yours stands out. Also be sure to build relationships with your customers – let them know you care. And don't forget to stay positive and motivate others. Your energy will be contagious!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D7:6",
+                "text": "Thanks for the advice, Jon! Building relationships and creating a strong brand image for my store is something I'm always working on. You're right, staying positive is key. What helps you stay motivated with your dance studio business?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D7:7",
+                "img_url": [
+                    "https://live.staticflickr.com/8111/8547962982_92d38cbcc3_b.jpg"
+                ],
+                "re-download": true,
+                "blip_caption": "a photography of a group of women doing a dance routine",
+                "text": "Seeing my students succeed motivates me. It's awesome to help them learn and reach their goals. Your support, Gina, means a lot too. Here's a photo of us after during one of the dance clases."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D7:8",
+                "text": "That's awesome, Jon! Seeing your students grow and succeed must be really fulfilling. Glad I can be part of this journey!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D7:9",
+                "text": "Thanks for being there for me! It's really made a huge difference and it feels great."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D7:10",
+                "text": "Glad I could help, Jon! It's nice to be part of something positive. Supporting your dreams is awesome!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D7:11",
+                "text": "Thanks for being there for me. Your help means a lot."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D7:12",
+                "text": "I'm here for you, rooting for you all the way."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D7:13",
+                "text": "Thanks, I'm really grateful for your help with staying motivated."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D7:14",
+                "text": "Glad to cheer you on. Keep going and never give up!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D7:15",
+                "text": "Thanks, Gina! I won't quit - your words motivate me to keep going!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D7:16",
+                "text": "Believe in yourself. Even when it's tough, you got this! Keep going!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D7:17",
+                "text": "I'm gonna keep on believing in myself. Thanks for the kind words!"
+            }
+        ],
+        "session_8_date_time": "1:26 pm on 3 April, 2023",
+        "session_8": [
+            {
+                "speaker": "Jon",
+                "dia_id": "D8:1",
+                "text": "Hey Gina, I had to shut down my bank account. It was tough, but I needed to do it for my biz."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D8:2",
+                "text": "Oh no, Jon! Sorry to hear that. Tough decision for you? How're you handling the changes?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D8:3",
+                "text": "It was a tough call, but I thought it'd help my biz grow. Handling changes has been hard, but I'm staying positive and looking ahead. Anything new for you?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D8:4",
+                "text": "Oof, that's tough, Jon. I got some new offers and promotions going on my online store to try and bring in new customers. It's been a wild ride starting my business, but I'm not giving up!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D8:5",
+                "text": "Nice one, Gina! Love how you never give up. What helps you stay motivated?"
+            },
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
+                ],
+                "blip_caption": "a photo of a man and woman doing a yoga pose",
+                "query": "dance studio session",
+                "dia_id": "D8:6",
+                "text": "Thanks Jon! Dance is my stress relief and fashion fuels my creativity. I love finding new trends for my store. It keeps me motivated to keep growing. Check out this pic of my fave dance session!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D8:7",
+                "text": "Wow, that's great! What made you combine clothing biz and dance?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D8:8",
+                "text": "Thanks! I'm passionate about dance and fashion so combining them lets me show my creativity and share my love with others. Plus, I can add dance-inspired items to my store!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D8:9",
+                "text": "Nice work! Combining passions is always cool. How's it going?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D8:10",
+                "text": "Thanks! So far, so good - customers love the new offers and promotions, which means I'm seeing more sales. People seem to really like my designs, so I'm always on the hunt for unique, trendy pieces. Growing my customer base is the main focus right now."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D8:11",
+                "text": "Sounds like all your effort's paying off. Anything planned to grow your customer base?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D8:12",
+                "text": "Yeah, I have a few plans. I'm thinking of working with some fashion bloggers and influencers in the next few months to get more attention for my store. Plus, I'm going to do more ads so I can reach more people. I'm really focused on building my customer base and making my store a top destination for fashion fans. It's awesome to see it all coming together! You, Jon? What do you have going for your dance studio?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D8:13",
+                "text": "Thanks, Gina! I'm expanding my dance studio's social media presence and offering workshops and classes to local schools and centers. I'm also hosting a dance competition next month to showcase local talent and bring more attention to my studio. All the work's paying off - I'm seeing progress and the dancers are so excited. It's such a great feeling to give a place where people can express themselves through dance!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D8:14",
+                "text": "Wow! That's fantastic that your studio's expanding and giving dancers an outlet. So proud of the progress you've made - keep it up!"
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://universe.byu.edu/wp-content/uploads/2018/02/IMG_8914.jpg"
+                ],
+                "blip_caption": "a photo of a group of people on a stage with a projector screen",
+                "query": "group of talented dancers performing on stage event next month",
+                "dia_id": "D8:15",
+                "text": "Thanks! Your backing means a lot. I'm trying to make my plan work, even though it's been tough. Your encouragement really helps. Are you coming to the event next month? Love to have you there!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D8:16",
+                "text": "Woah, cool event! What's gonna be happening? I'd love to join in and show my support!"
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://varnikadesigns.files.wordpress.com/2020/11/img_3505.jpg"
+                ],
+                "blip_caption": "a photo of a group of dancers on a stage with a man in the middle of the group",
+                "query": "group dancers stage performance",
+                "dia_id": "D8:17",
+                "text": "Thanks, Gina! My dance studio and some other schools are bringing their best moves for an awesome night of performances and judging. It'll be super creative and fun. Come join us!"
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a woman in a tutu posing for a picture",
+                "dia_id": "D8:18",
+                "text": "Sounds great! I'm definitely in for the show."
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of two women doing a handstand in a room",
+                "dia_id": "D8:19",
+                "text": "Cool! Can't wait to see you!"
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a group of young girls in tutuss and ballet shoes",
+                "dia_id": "D8:20",
+                "text": "Thanks, Jon! See you at the event!"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a dress with a sign on it that says june bunty",
+                "dia_id": "D8:21",
+                "text": "Gina, good luck with your store!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D8:22",
+                "text": "Thanks, Jon! Appreciate the kind words. <3"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a street light on a sidewalk in front of a building",
+                "dia_id": "D8:23",
+                "text": "Sure, I am always there for you!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D8:24",
+                "text": "Thanks! Your support means a lot. I'm gonna keep pursuing my goals and I hope you do too!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D8:25",
+                "text": "Thanks! I won't quit on my dreams. Your words really motivate me. Bye!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D8:26",
+                "text": "Bye Jon! You got this! Believe in yourself and keep pushing. Take care!"
+            }
+        ],
+        "session_9_date_time": "10:33 am on 9 April, 2023",
+        "session_9": [
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://college.lclark.edu/live/image/gid/664/width/720/height/690/crop/1/87150_Dance_main_image.rev.1613000755.jpg"
+                ],
+                "blip_caption": "a photo of a group of dancers on a stage with a red background",
+                "query": "dance studio class collage rehearsal students",
+                "dia_id": "D9:1",
+                "text": "Hey Gina! I'm turning my loves of dance into a business. I'm sunk tons of time into the studio lately, and look at my students - they're already killing it. I'm even learning with them!"
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a display of a dress and a flamingo",
+                "dia_id": "D9:2",
+                "text": "Hey Jon! Wow, way to take your passion and make it into a biz! The dance studio looks awesome."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D9:3",
+                "text": "Thanks, Gina! I'm determined to make this studio work. Losing my job was tough but it gave me the push I needed to do what I love."
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a red dress with gold accents on a mannequin",
+                "dia_id": "D9:4",
+                "text": "Woah, Jon! Tough times can be a gateway to awesome things. Glad you worked up the courage to go after your dreams!"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a woman doing a pole dance in a dance studio",
+                "dia_id": "D9:5",
+                "re-download": true,
+                "text": "Yeah, Gina! It's been tough, but I'm living my true self. Dancing makes me so happy, and now I get to share that with other people. Seeing my students get better at it brings me such joy."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D9:6",
+                "text": "Wow Jon, you look so happy when you dance! Show the world your true self and keep dancing!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D9:7",
+                "text": "Thanks a bunch, Gina! You seriously rock. Dancing for me is like a way to express myself and find my happy place. I used to be scared to death of what people would think, but I learnt that my own happiness is the most important thing. It's been tough but also the best thing ever!"
+            },
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://cartwheelfactory.com/imagesjpg/ballet-studio-glassless-mir.jpg"
+                ],
+                "blip_caption": "a photo of a group of young women in ballet attire",
+                "query": "ballet studio mirrors barres dance classes",
+                "dia_id": "D9:8",
+                "text": "Yeah, I do remember those dance classes! I used to love spending time in the studio. That photo looks awesome, brings back lots of memories. It's nice to know, dance is still your happy place."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D9:9",
+                "text": "Nice, Gina! I'm happy that dance has such a special meaning to both of us. It's a really cool way to express ourselves. I loved taking lessons with my friends when I was younger. Those memories are so precious. So glad I can still enjoy it with my own studio. Thanks for always being there for me."
+            },
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://i.pinimg.com/originals/68/03/ff/6803ffb650c71d63268b6a40310c882a.jpg"
+                ],
+                "blip_caption": "a photo of a trophy with a glass globe on top",
+                "query": "dance competition trophy",
+                "dia_id": "D9:10",
+                "text": "Hey Jon! Got your back - dance is awesome for expressing yourself and finding happiness. Here's one of my trophies from a dance contest, nice reminder of the hard work, dedication and joy it brings."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D9:11",
+                "text": "Wow! It looks awesome! Thanks for the support, it really means a lot."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D9:12",
+                "text": "No prob, Jon! You earned all the kudos for your hard work. Keep it up!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D9:13",
+                "text": "Thanks! Gonna keep pushing and working hard. Won't let anything hold me back!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D9:14",
+                "text": "Way to go, Jon! Keep it up, you're almost there!"
+            }
+        ],
+        "session_10_date_time": "11:24 am on 25 April, 2023",
+        "session_10": [
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://www.samfsn.org/images/samsfn-events/WNYD2.jpg"
+                ],
+                "blip_caption": "a photo of a group of women performing a dance on a stage",
+                "query": "fair booth flyers brochures dance studio",
+                "dia_id": "D10:1",
+                "text": "Hi Gina! I just wanted to fill you in on my business. Yesterday, I went to a fair to show off my studio, it was both stressful and great! I got some possible leads, so that was awesome. But overall, I've learned that this biz is no cakewalk and having confidence in yourself is important for making it successful!"
+            },
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://images.squarespace-cdn.com/content/v1/5ad8eb7f506fbec1f61b54ea/1539686276776-HPK5GWLCBQ0MHE5GSE6S/web_homepage_mock.jpg"
+                ],
+                "blip_caption": "a photography of a laptop with a sale ad on the screen",
+                "query": "clothing store website",
+                "dia_id": "D10:2",
+                "re-download": true,
+                "text": "Hey Jon, congrats on the fair! It's awesome to see your hard work paying off. Keep on pushing, pal, you're headed for greatness. Oh, and BTW, I started my own online clothing store not so long ago - pretty cool, huh?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D10:3",
+                "text": "Thanks, Gina! Appreciate your support. Your store looks great, I remember it!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D10:4",
+                "text": "Thanks, Jon! After losing my job, I wanted to take control of my own destiny and this seemed like the perfect way to do it. It's been a tough journey, but very rewarding."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D10:5",
+                "text": "Wow, you're awesome for going for it! Setbacks can help us reach our potential, right? I'm having trouble with my business project. Any advice on staying motivated even when times are tough?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D10:6",
+                "text": "Yeah Jon! Challenges are awesome for learning and growth. To stay motivated, I think of the big goal and why I'm doing it. I also get help from people who support me. And of course, I dance it out. Do you need advice on anything in particular?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D10:7",
+                "text": "I've been feeling kinda low on confidence lately. It's hard to run a business when you don't have faith in yourself. Any tips on how you stay confident in your business?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D10:8",
+                "text": "I get it, Jon. Confidence is important in business. I stay motivated by reminding myself of my successes and progress. It also helps to have a good support system. Just focus on why you started this – because you love it! Have faith in yourself, Jon. I do!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D10:9",
+                "text": "Thanks! Your words mean a lot. Gotta focus on success and why I started. You're right, I love it and that'll keep my confidence up."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D10:10",
+                "text": "No worries, Jon! Sounds like what I said was helpful. You're incredibly talented and passionate about dance. Don't forget, believe in yourself and your abilities. Tackle any obstacle that comes your way and keep shining!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D10:11",
+                "text": "Thanks! Your support means a lot. I'm gonna keep going and reach my dreams no matter what."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D10:12",
+                "text": "Go for it, Jon! You got this! Don't let anything stop you. We're in this together!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D10:13",
+                "text": "Appreciate your encouragement. We'll keep pushing each other on this path."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D10:14",
+                "text": "Yeah! Let's keep each other going. We can do it!"
+            }
+        ],
+        "session_11_date_time": "3:14 pm on 11 May, 2023",
+        "session_11": [
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a woman in a short skirt with her hands on her hips",
+                "dia_id": "D11:1",
+                "text": "Hi! Since we last spoke I am still working on the dance studio and things are looking up!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D11:2",
+                "text": "Hi! You're so inspiring taking it on and opening your own studio!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D11:3",
+                "text": "Thanks! Losing my job gave me the push to finally start my dream business: my own dance studio! Now I'm stepping into the unknown and hoping for the best."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D11:4",
+                "text": "It must be scary stepping into the unknown but I know you can do it, Jon. With your determination and drive, your dance studio will be a huge success. Keep that positive outlook and keep going!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D11:5",
+                "text": "Thanks! It's a bit scary, but I just think about my love for dance and how it makes me feel. It's been my stress-buster since childhood!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D11:6",
+                "text": "Gotcha, Jon! Dance is my stress fix too. As soon as I start, all my worries vanish. It's amazing what we can do for our own mental health with something we enjoy."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D11:7",
+                "text": "Yeah, Gina! Dancing helps me de-stress. It's where I'm most alive. It's a must-have in my life."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D11:8",
+                "text": "I get it, Jon. Dance is just me -- I can't picture life without it. It's like air."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D11:9",
+                "text": "Yep! Dancing is like second nature to me. I'm living my dream by having my own dance studio and teaching others."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D11:10",
+                "text": "You're living the dream and inspiring others too! Your studio will totally change things for lots of folks."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D11:11",
+                "text": "I hope so, Gina. I want to create a place for people to dance and express themselves - it's been a dream of mine."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D11:12",
+                "text": "That's a great dream, Jon! Giving people a place to express themselves with dance is really important. Your studio is gonna make a huge difference. Can't wait to see it happen!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D11:13",
+                "text": "Thanks! Your help means a lot. Keep you posted on the dance studio progress."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D11:14",
+                "text": "Thanks! Really appreciate you keeping me in the loop on this cool project. Can't wait to hear more and watch it come to life! Oh, btw, I had an interview for a design internship yesterday! It was so cool."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D11:15",
+                "text": "Wow, Gina, I'm stoked about this! Taking a risk is scary, but I'm sure following my dreams will pay off in the end. How did the interview go?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D11:16",
+                "text": "It was great!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D11:17",
+                "text": "Glad to hear it. Been practicing dance routines lately, it keeps my mind focused and motivated."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D11:18",
+                "text": "Wow! That's great. Dancing is awesome for staying focused. Wanna show me a routine sometime?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D11:19",
+                "text": "Sure, Gina! Wanna see one of my routines? Lemme know when you got time and I'll send you a vid."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D11:20",
+                "text": "Yeah, Jon, I'll watch your routine! So proud of you!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D11:21",
+                "text": "Thanks a lot! Your help really means a lot. I'll get the video to you soon!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D11:22",
+                "text": "No prob! Always here to help. Can't wait to see the vid!"
+            }
+        ],
+        "session_12_date_time": "7:18 pm on 27 May, 2023",
+        "session_12": [
+            {
+                "speaker": "Gina",
+                "dia_id": "D12:1",
+                "text": "Hey Jon! Long time no talk! A lot's happened - I just got accepted for a fashion internship!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D12:2",
+                "text": "Congrats, Gina! That's awesome news about the fashion internship. 🎉 So stoked for you. Where is the internship and how're you feelin' about it?"
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a laptop computer with a logo on the screen",
+                "dia_id": "D12:3",
+                "text": "Thanks! I'm excited and kinda nervous. Gonna be a big change. It's part-time position in the fashion department of an international company."
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a book with a yellow and green cover",
+                "dia_id": "D12:4",
+                "text": "Way to go, Gina! You really stepped up. What's your plan for the future?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D12:5",
+                "text": "Thanks! I'm a mix of excited and scared to get into fashion, but I'm trying to stay upbeat and learn as much as I can. What about you? Got something new?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D12:6",
+                "text": "I'm currently reading \"The Lean Startup\" and hoping it'll give me tips for my biz."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D12:7",
+                "text": "It sounds great! Could it spark any ideas for your dance studio?"
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://cdn.apartmenttherapy.info/image/upload/v1615494917/at/living/2021-03/IMG_5070.jpg"
+                ],
+                "blip_caption": "a photo of a white board with a list of dates on it",
+                "query": "whiteboard business ideas",
+                "dia_id": "D12:8",
+                "text": "Yeah, the book got me thinking about building a focused and efficient business. Adapting and tweaking from customer feedback is important too, so I'm gonna try it out!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D12:9",
+                "text": "Woah, Jon, that whiteboard's got a bunch of good ideas! How you gonna keep track and stay on schedule with those dates?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D12:10",
+                "text": "Thanks, Gina! It helps me keep track of ideas and milestones. Gives me a visual of my progress and keeps me organized."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D12:11",
+                "text": "Nice idea! Having something visual can help with organizing and motivation. What're you working on currently?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D12:12",
+                "text": "I'm wrapping up the business plan and looking for investors. My passion for the project and belief in its success are driving me."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D12:13",
+                "text": "Wow, Jon! Impressed by your commitment. How's the hunt for investors going?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D12:14",
+                "text": "Thanks! Searching for investors has been tough, but I'm staying hopeful. It's all a process and I'm learning a ton."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D12:15",
+                "text": "Yeah Jon, you've got the right attitude! Keep learning and growing through it all. Keep going!"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a pink sign with a message on it",
+                "dia_id": "D12:16",
+                "text": "Thanks! I really appreciate your help. I'm gonna keep on going and never quit."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D12:17",
+                "text": "Keep it up!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D12:18",
+                "text": "Thanks! Your words really mean a lot. Don't worry, I won't let anything get me down."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D12:19",
+                "text": "Go Jon! Obstacles are inevitable, but you can do awesome things. Keep going!"
+            }
+        ],
+        "session_13_date_time": "8:29 pm on 13 June, 2023",
+        "session_13": [
+            {
+                "speaker": "Jon",
+                "dia_id": "D13:1",
+                "text": "Hey Gina, thanks for being there for me and believing in me. It means a lot."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D13:2",
+                "text": "Sure, Jon! I'm always around for you. How've you been since we caught up?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D13:3",
+                "text": " I'm prepping for my dance studio more than ever!"
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a group of young girls in blue outfits posing for a picture",
+                "dia_id": "D13:4",
+                "text": "Proud of you for starting your own business! It takes strength to stay hopeful. What are you doing to prep for your dance studio? I have developed a video presentation to teach how to style my fashion pieces, btw. "
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D13:5",
+                "text": "Thanks, Gina! It's been so inspiring to work with our young dancers, seeing their passion and commitment. Opening the dance studio's been a great experience - I want it to be a place of support and encouragement for all our dancers. Will you show me this presentation?"
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a skeleton and a trophy on a black cloth",
+                "dia_id": "D13:6",
+                "text": "Shure, I will send it to you later. Starting this studio isn't just a business, it's a place for dancers to grow. What support are you offering them?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D13:7",
+                "text": "Besides the dance classes and workshops, I'm offering one-on-one mentoring and training to help dancers reach their full potential."
+            },
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://christinasearsetternet.files.wordpress.com/2020/08/img_1232.jpg"
+                ],
+                "blip_caption": "a photo of a group of people in a dance class",
+                "query": "dancers mentoring and training",
+                "dia_id": "D13:8",
+                "text": "Your one-on-one mentoring and training will really push dancers to reach their goals. I totally get it, I had a mentor too when I was learning how to dance."
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://i.redd.it/2308a70tm0m81.jpg"
+                ],
+                "blip_caption": "a photo of a clipboard with a notepad attached to it",
+                "query": "whiteboard dance moves",
+                "dia_id": "D13:9",
+                "text": "Yeah, a mentor can do wonders. Guidance and support can help dancers really shine."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D13:10",
+                "text": "Nice one, Jon! How've you been using it?"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a notebook with a calendar on it",
+                "dia_id": "D13:11",
+                "text": "I'm using it to stay organized and motivated. It sets goals, tracks my achievements and helps me find areas to improve."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D13:12",
+                "text": "Really cool system! Being organized sure is key for getting stuff done. How do you keep up with your goals and progress?"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a group of markers sitting on top of a white surface",
+                "dia_id": "D13:13",
+                "text": "I also use whiteboard to stay on track, visualize goals and tokenize successes. It keeps me motivated and focused."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D13:14",
+                "text": "Cool! Are you using different colors?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D13:15",
+                "text": "Yes. I color-code achievements so I can easily track my progress and stay motivated."
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a cork board with pictures and words on it",
+                "dia_id": "D13:16",
+                "text": "Wow, color-coding is a great way to track your progress & stay motivated. Keep it up!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D13:17",
+                "text": "Thanks! It helps me stay motivated and reminds me why I'm doing this."
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a person holding a paper bag with a picture of a bird and a birdie",
+                "dia_id": "D13:18",
+                "text": "Yeah, its a great idea!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D13:19",
+                "text": "Thanks!"
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a quote on a white sheet with a rainbow of light",
+                "dia_id": "D13:20",
+                "text": "Remember that staying positive is very important.  Rock on!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D13:21",
+                "text": "Thanks, Gina! Your support's really been awesome."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D13:22",
+                "text": "Thanks! Keep going for your dreams and don't quit!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D13:23",
+                "text": "I won't give up, Gina! I'll keep pushing and working to make my dreams happen. Thanks for the support!"
+            }
+        ],
+        "session_14_date_time": "9:38 pm on 16 June, 2023",
+        "session_14": [
+            {
+                "speaker": "Jon",
+                "dia_id": "D14:1",
+                "text": "Gina, you won't believe it - I got mentored by this amazing business dude yesterday! It was really inspiring and now I'm even more pumped to chase my dreams. What's been up with you lately?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D14:2",
+                "text": "Wow, Jon! Mentors can really help. I'm working on my online store, growing the customer base. It's tough but I'm determined. How about you? Any new things happening?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D14:3",
+                "text": "Been doing some promotion for my business. Crazy ride so far, but I'm hanging in there. Got any tips for marketing?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D14:4",
+                "text": "Awesome! Marketing is key. Use social media channels and work with influencers for bigger reach."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D14:5",
+                "text": "Thanks for the advice, Gina! I already started doing what you said about social media and posted some of my dance videos. It's creating a bit of a stir."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D14:6",
+                "text": "Nice! Glad your dance vids are doing well online. Keep it up!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D14:7",
+                "text": "Your help really helps. Hey, have you thought about being an entrepreneur?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D14:8",
+                "text": "Ha, yeah, Jon. I've been one 'cause I lost my job. I opened an online clothing store and it's been great! Being my own boss and doing something I love is awesome."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D14:9",
+                "text": "Wow, Gina! You did great taking that leap. Congrats! Got any advice for someone just starting out?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D14:10",
+                "text": "Thanks, Jon! It was a huge jump, but totally worth it. My advice: stay passionate, focused and resilient. Challenges will come, but believe in yourself and keep going. And stay open to learning and improving."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D14:11",
+                "text": "Appreciate your advice. Gotta stay resilient and focused, that's key!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D14:12",
+                "text": "Yep Jon, staying resilient and focused is key for any entrepreneur. Keep going and don't give up! You got this!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D14:13",
+                "text": "Thanks! I won't quit, no matter what. Your encouragement really motivates me to keep going."
+            },
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://cdn1.sportngin.com/attachments/photo/7609-187142791/PINE_ISLAND_WOW_AWARD.jpg"
+                ],
+                "blip_caption": "a photo of a group of young women posing for a picture",
+                "query": "dance competition trophy stage",
+                "dia_id": "D14:14",
+                "text": "Way to go, Jon! Don't quit, remember, failures lead you closer to success. Here's a pic from when I was dancing - it was a tough road, but it was worth it!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D14:15",
+                "text": "Wow, that's an awesome pic! You guys look great and passionate about dancing. Reminds me how much I love performing. Thanks for sharing!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D14:16",
+                "text": "Thanks! I'm glad the pic reminded you of your love for dancing. Keep going after your dreams!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D14:17",
+                "text": "Sure thing, Gina! Your help means a lot to me. I'm not giving up."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D14:18",
+                "text": "Go, Jon! I'm here for you. Keep going!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D14:19",
+                "text": "Knowing you've got my back really helps keep me going. I won't let you down!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D14:20",
+                "text": "No worries, Jon! You're really inspiring with your determination and passion for dance. Keep it up!"
+            }
+        ],
+        "session_15_date_time": "10:04 am on 19 June, 2023",
+        "session_15": [
+            {
+                "speaker": "Jon",
+                "dia_id": "D15:1",
+                "text": "Hey Gina, hope you're doing great! Still working on my biz. Took a short trip last week to Rome to clear my mind a little."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D15:2",
+                "text": "Hi! Good for you! It definitely will help you to concentrate on your biz better."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D15:3",
+                "text": "Thanks, Gina. Still working on opening a dance studio."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D15:4",
+                "text": "When are you opening the studio?"
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://images.pexels.com/photos/11686640/pexels-photo-11686640.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-ph%E1%BA%A1m-chung-11686640.jpg"
+                ],
+                "blip_caption": "a photo of a group of young dancers in a dance studio",
+                "query": "dance studio front entrance dancers rehearsing",
+                "dia_id": "D15:5",
+                "text": "The official opening night is tomorrow. I'm working hard to make everything just right. Can't wait to see it all come together!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D15:6",
+                "text": "Congrats, Jon! The studio looks amazing. You've put a lot of work into this and I'm so pumped for the launch tomorrow. Don't miss a beat!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D15:7",
+                "text": "Thanks, Gina! I'm excited! It's been a wild ride, but I'm feeling good and ready to give it my best."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D15:8",
+                "text": "Wow, Jon, you must be so excited! You've come so far since we last talked, and tomorrow's gonna be a blast! All those long nights were worth it - so take some time to savor it. Capture the joy and thrill that dance brings - it's magical!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D15:9",
+                "text": "Tomorrow's gonna be an awesome night and I'm not gonna forget a second of it. I put so much into this and I want to savor all the good vibes. Thanks for always having my back. You're the best!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D15:10",
+                "text": "I'm always proud of you. Enjoy the good feels tomorrow, you earned it!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D15:11",
+                "text": "Thanks! Your pride and support mean a lot. Looking forward to enjoying the moment with you."
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a group of people in a dance studio",
+                "dia_id": "D15:12",
+                "text": "I'll be right by your side, Jon. Let's live it up and make some great memories tomorrow. So excited!"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a man in a native costume is giving another man a high five",
+                "dia_id": "D15:13",
+                "text": "Yeah! Let's make some awesome memories tomorrow at the grand opening!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D15:14",
+                "text": "Can't wait to make more memories at your dance studio!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D15:15",
+                "text": "Looking forward to more cool memories!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D15:16",
+                "text": "I love being around friends and having such a great time. Can't wait to have fun at your dance studio!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D15:17",
+                "text": "Agreed!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D15:18",
+                "text": "Can't wait for tomorrow's grand opening!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D15:19",
+                "text": "Woohoo! Tomorrow's opening will be so much fun. Can't wait for it - and for you to be there!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D15:20",
+                "text": "Can't wait too!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D15:21",
+                "text": "Definitely! Let's make tomorrow unforgettable, Gina. See you there! Bye!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D15:22",
+                "text": "See you tomorrow. Bye!"
+            }
+        ],
+        "session_16_date_time": "2:15 pm on 21 June, 2023",
+        "session_16": [
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://www.staycoldapparel.com/cdn/shop/files/Foto28.09.23_122631.jpg"
+                ],
+                "blip_caption": "a photo of a woman in a black hoodie posing for a picture",
+                "query": "online clothing store logo fashion unique pieces",
+                "dia_id": "D16:1",
+                "text": "Hey Jon, what's been up? Some pretty cool stuff happened since we talked. I have acquired some new unique pieces for my store."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D16:2",
+                "text": "Congrats on your store, Gina! Happy for you! It looks sick - is it a unique piece you're selling?"
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a hoodie with a camouflage print on it",
+                "dia_id": "D16:3",
+                "text": "Thanks! This hoodie isn't for sale, it's from my own collection. I made a limited edition line last week to show off my style and creativity - it was tough but worth it!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D16:4",
+                "text": "What gave you the idea?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D16:5",
+                "text": "This design reminds me of the grit it takes to stand out and face challenges."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D16:6",
+                "text": "That's awesome, Gina! Yesterday I chose to go to networking events to make things happen. It's been tough but I'm staying determined and focused."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D16:7",
+                "text": "Way to go, Jon! Attending those networking events takes guts and drive. Keep it up!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D16:8",
+                "text": "Thanks! It's been tough going since I lost my job, but I'm sure investing my time in my business will pay off eventually. I really appreciate your help."
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a notepad with a pen and a pen on it",
+                "dia_id": "D16:9",
+                "text": "No worries, Jon! You got this! Let me know if you need anything."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D16:10",
+                "text": "Your help matters to me. I am writing all my plans down."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D16:11",
+                "text": "Nice work! Tracking your plans and goals is key. It's like a picture of all your progress."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D16:12",
+                "text": "Thanks, Gina! Seeing my goals written down on paper really helps keep me motivated and focused on what I have to do. I know it won't be easy, but I'm sure it'll pay off. Thanks for the support!"
+            },
+            {
+                "speaker": "Gina",
+                "img_url": [
+                    "https://i.redd.it/b1sgp694awda1.jpg"
+                ],
+                "blip_caption": "a photo of a sign that says never give up never give up never",
+                "query": "never give up sign",
+                "dia_id": "D16:13",
+                "text": "No worries, Jon! When things get rough, keep persevering and keep working hard. You'll get there! Don't quit!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D16:14",
+                "text": "Thanks, Gina! That sign reminds me to never give up, however hard things get. I'll keep going!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D16:15",
+                "text": "Believe in yourself and keep going. You can do it!"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a bulletin board with pictures of people and words",
+                "dia_id": "D16:16",
+                "text": "Thanks! I'm feeling confident and won't give up. Your support means a ton to me."
+            }
+        ],
+        "session_17_date_time": "1:25 pm on 9 July, 2023",
+        "session_17": [
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a mannequin in a room with a wood wall",
+                "dia_id": "D17:1",
+                "text": "Hey Jon! Long time no chat! How's the dance studio? Last week was wild, I got noticed by fashion editors and it's been amazing but kinda scary. Everything's exciting but it's a lot of pressure to keep going up!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D17:2",
+                "text": "Hey Gina! Congrats on the fashion editors reach-out, that's awesome! Dance practice has been fun and exhausting. I'm gonna stay determined and make my own path by going full-time with my biz idea."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D17:3",
+                "text": "Just remember that sometimes stumbling blocks can be opened doors. Keep going!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D17:4",
+                "text": "Thanks! Your support and encouragement means a lot. Losing my job was a bummer, but it pushed me to take the plunge and go for my biz dreams. Started to learn all these marketing and analytics tools to push the biz forward today. It's been tricky, but I'm up for the challenge and I'm gonna make this work!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D17:5",
+                "text": "Go get 'em, Jon!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D17:6",
+                "text": "I'm also excited to guide and mentor aspiring dancers on their dreams."
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a drawing of a couple dancing",
+                "dia_id": "D17:7",
+                "text": "Wow, Jon! That's awesome. Loving what you do and bringing joy to others is so rewarding. You're definitely the perfect mentor & guide. Your positivity and determination will make your dance studio a hit!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D17:8",
+                "text": "Thanks, Gina - really appreciate your words and encouragement! Dance has the power to bring us together and create sweet moments. Moments like this remind me why I'm chasing my dream and keep me pushing through any struggles."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D17:9",
+                "text": "Take comfort in knowing you've got a solid community cheering you on, me included. Keep on pushing!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D17:10",
+                "text": "Feeling supported by all of you means so much. It gives me the oomph to keep chasing my dreams. Your faith in me is priceless - I won't let you down!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D17:11",
+                "text": "Don't let anything stop you. You have potential!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D17:12",
+                "text": "Thanks, Gina! Your faith in me is a real boost. I'm gonna make my dreams come true!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D17:13",
+                "text": "Keep pushing and you'll get there. Your dreams are so close!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D17:14",
+                "text": "Thanks, Gina! I won't quit, even when it's hard. I'm gonna make it!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D17:15",
+                "text": "You got this, Jon! Don't let the bumps in the road bring you down. Keep going and make your dreams a reality! I'm rooting for you!"
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a chalkboard with a quote written on it",
+                "dia_id": "D17:16",
+                "text": "Thanks, Gina! Your belief in me means the world. I'm not gonna let anything or anyone stop me. I'll keep pushing and make my dreams come true. Thanks for being a great friend. You rock!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D17:17",
+                "text": "Hey Jon, glad I could help! Always here to cheer you on."
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://i.redd.it/1jjaus9f0sab1.jpg"
+                ],
+                "blip_caption": "a photo of a drawing of a smiley face floating in the water",
+                "query": "childhood drawing soaring sky",
+                "dia_id": "D17:18",
+                "text": "Thanks! Glad that you are on my side."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D17:19",
+                "text": "Sure, see ya. Bye!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D17:20",
+                "text": "Bye!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D17:21",
+                "text": ";)"
+            }
+        ],
+        "session_18_date_time": "5:44 pm on 21 July, 2023",
+        "session_18": [
+            {
+                "speaker": "Gina",
+                "dia_id": "D18:1",
+                "text": "Hey Jon! Long time no talk! Last week, I built a new website for customers to make orders. It's been a wild ride but I'm loving it. What's up with you? How's the dance studio?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D18:2",
+                "text": "Hey Gina, congrats on the clothing store! The dance studio is on tenuous grounds right now, but I'm staying positive. I got a temp job to help cover expenses while I look for investors. It's tough, but I'm sure it'll be worth it."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D18:3",
+                "text": "Thanks, Jon! Appreciate the kind words. Sorry to hear about the studio, but glad to see the positivity. Not easy facing setbacks but I believe in you. Finding investors can be tough, but you've got the passion and experience to make it happen. Rome wasn't built in a day so keep pushing on!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D18:4",
+                "text": "Thanks for the support. Running a business isn't easy, but I'm determined to make it work. How have you tackled challenges in your business? Got any advice?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D18:5",
+                "text": "I've had some tough times with my business, Jon. Sourcing trendy pieces for my store was a big hurdle. I had to do a lot of research and networking. My advice? Don't be scared to reach out to people in your field for help and contacts. Networking was a lifesaver for me and opened me up to amazing products that I might not have found otherwise."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D18:6",
+                "img_url": [
+                    "https://live.staticflickr.com/7284/16241297914_14ea605e4b_b.jpg"
+                ],
+                "re-download": true,
+                "blip_caption": "a photography of a group of people standing in a room",
+                "text": "Awesome advice! Lately I've been networking and it's gotten me some good stuff. Really can't beat what connections can do. Check this pic I got from the last networking event!"
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a clothing store with a wall of pictures and clothes",
+                "dia_id": "D18:7",
+                "text": "Nice one, Jon! Networking really pays off. Connecting with like-minded people is key. How was the event?"
+            },
+            {
+                "speaker": "Jon",
+                "img_url": [
+                    "https://cress.gigsalad.com/s3/attachments/61/02/47/610247e1e1a92f951cf413a4cdedcde0.jpg"
+                ],
+                "blip_caption": "a photo of a man signing a card at a table",
+                "query": "crowded networking event people mingling business cards",
+                "dia_id": "D18:8",
+                "text": "Thanks! The event was awesome. I met some investors and got some good advice. The energy was really motivating, it gave me a boost to go after my goals."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D18:9",
+                "text": "Wow, Jon! Congrats on the successful night! What are your plans now with the advice you got?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D18:10",
+                "text": "Taking your advice, I'm sprucing up my biz plan and tweaking my pitch to investors. I'm also working on an online platform to show off the dance studio's stuff."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D18:11",
+                "text": "Sounds like a great plan, Jon! An online platform can really show off your studio and get investors. Need help with anything?"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D18:12",
+                "text": "Thanks, Gina! Appreciate the offer. Need help with marketing strategies - any advice on reaching my target audience and raising awareness for the dance studio?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D18:13",
+                "text": "Yeah Jon, marketing is key for getting your dance studio noticed. Instagram and TikTok can help you reach a younger crowd. Posting dance clips or content related to dance can help. You could also collaborate with local influencers or dance communities. I could help you with making content or even managing your accounts if you want."
+            },
+            {
+                "speaker": "Jon",
+                "blip_caption": "a photo of a room with a mirror and a desk",
+                "dia_id": "D18:14",
+                "text": "Sounds great. I'd really appreciate your help with making content and managing my social media. Let's get together and make the dance studio look awesome!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D18:15",
+                "text": "Let's create some cool content and manage your social media accounts."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D18:16",
+                "text": "Thanks for the support. You rock!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D18:17",
+                "text": "Thanks, Jon! You're awesome. Let's get to work and make your studio shine!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D18:18",
+                "text": "Definitely, Gina! Let's make our collaboration awesome and bring some dance magic to the world. Can't wait to see what we can do together!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D18:19",
+                "text": "Definitely, Jon! I'm pumped to collaborate with you and make some sweet moves. Together, we can make a difference and show the world what we can do. Let's go for it!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D18:20",
+                "text": "Yeah, Gina! We'll rock the dance floor and teach others to chase their dreams. Let's go for it and make an impact!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D18:21",
+                "text": "Yeah Jon! Let's make a difference and show 'em what we got. We can do amazing things together!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D18:22",
+                "text": "Thanks for having my back."
+            }
+        ],
+        "session_19_date_time": "6:46 pm on 23 July, 2023",
+        "session_19": [
+            {
+                "speaker": "Jon",
+                "dia_id": "D19:1",
+                "text": "Hey Gina! We haven't talked in a few days. Been rehearsing hard and working on business plans. It's been stressful, but dancing has kept me going."
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of a group of dancers on a stage with their arms in the air",
+                "dia_id": "D19:2",
+                "text": "Hey Jon! Remember, just do it! You should get to the point where anyone else would quit and you're not going to stop there. No, what are you waiting for? Do it! Just do it!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D19:3",
+                "text": "Ha, ha! Thanks, Gina. Sounds familiar, who do those words belong to?"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D19:4",
+                "text": "It's Shia Labeouf!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D19:5",
+                "text": "Ahhahha, really!? Yea, that definitely him."
+            },
+            {
+                "speaker": "Gina",
+                "blip_caption": "a photo of three girls in ballet costumes sitting on a desk",
+                "dia_id": "D19:6",
+                "text": "Hah, yeah!) But really having a creative space for dancers is so important. Last Friday at dance class with a group of friends I felt it. Your studio will be a go-to spot for self-expression. Keep up the good work and don't forget your passion for dance."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D19:7",
+                "text": "Thanks, Gina! Your words of encouragement keep me motivated. Can't wait 'til my studio starts welcoming dancers of all ages and backgrounds!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D19:8",
+                "text": "I'm so happy to see my words motivating you, Jon. <3"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D19:9",
+                "text": "Thanks a ton, Gina! Your help and encouragement mean a lot. Your support will help me make it happen."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D19:10",
+                "text": "You're welcome, Jon! I'm here to support you. Every step's getting you closer to your dream. Never give up! You're doing great."
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D19:11",
+                "text": "Thanks, Gina! I won't quit. I'm gonna keep going, whatever comes my way."
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D19:12",
+                "text": "Remember Jon, Just do it!"
+            },
+            {
+                "speaker": "Jon",
+                "dia_id": "D19:13",
+                "text": "Ah ha ha, yeah, JUST DOING IT!"
+            },
+            {
+                "speaker": "Gina",
+                "dia_id": "D19:14",
+                "text": "That's the spirit! Bye!"
+            }
+        ]
+    },
+    "event_summary": {
+        "events_session_1": {
+            "Jon": [
+                "Jon loses his job as a banker.",
+                "Jon begins planning for his own business venture."
+            ],
+            "Gina": [
+                "Gina loses her job at Door Dash."
+            ],
+            "date": "20 January, 2023"
+        },
+        "events_session_2": {
+            "Jon": [
+                "Jon returns from a trip to Paris."
+            ],
+            "Gina": [
+                "Gina orders advertising to promote her store."
+            ],
+            "date": "29 January, 2023"
+        },
+        "events_session_3": {
+            "Jon": [],
+            "Gina": [
+                "Gina reaches out to potential wholesalers."
+            ],
+            "date": "1 February, 2023"
+        },
+        "events_session_4": {
+            "Jon": [
+                "Jon puts in a great deal of effort into his own business venture despite the difficulties.",
+                "Jon starts rehearsing for an upcoming dance competition."
+            ],
+            "Gina": [],
+            "date": "4 February, 2023"
+        },
+        "events_session_5": {
+            "Jon": [
+                "Jon puts up a performance showcasing his dance moves at a local festival."
+            ],
+            "Gina": [
+                "Gina works with an artist to acquire a new fashion piece for her store."
+            ],
+            "date": "8 February, 2023"
+        },
+        "events_session_6": {
+            "Jon": [
+                "Jon joins a gym to stay fit while pursuing his business venture."
+            ],
+            "Gina": [
+                "Gina opens her online clothing store"
+            ],
+            "date": "16 March, 2023"
+        },
+        "events_session_7": {
+            "Jon": [],
+            "Gina": [],
+            "date": "23 March, 2023"
+        },
+        "events_session_8": {
+            "Jon": [
+                "Jon shuts down his bank account to help his business grow."
+            ],
+            "Gina": [
+                "Gina introduces offers on her store to attract new customers."
+            ],
+            "date": "3 April, 2023"
+        },
+        "events_session_9": {
+            "Jon": [],
+            "Gina": [],
+            "date": "9 April, 2023"
+        },
+        "events_session_10": {
+            "Jon": [
+                "Jon visits a fair to get more exposure for his dance studio.",
+                "Jon begins to understand the importance of confidence in running a successful business."
+            ],
+            "Gina": [],
+            "date": "25 April, 2023"
+        },
+        "events_session_11": {
+            "Jon": [],
+            "Gina": [
+                "Gina gets an interview for a design internship related to her store."
+            ],
+            "date": "11 May, 2023"
+        },
+        "events_session_12": {
+            "Jon": [],
+            "Gina": [
+                "Gina is accepted for the design internship and starts a part-time job in the fashion department of an international company."
+            ],
+            "date": "27 May, 2023"
+        },
+        "events_session_13": {
+            "Jon": [],
+            "Gina": [
+                "Gina develops a video presentation to teach how to style her fashion pieces."
+            ],
+            "date": "13 June, 2023"
+        },
+        "events_session_14": {
+            "Jon": [
+                "Jon receives mentorship from an experienced businessman on how to promote his venture."
+            ],
+            "Gina": [],
+            "date": "16 June, 2023"
+        },
+        "events_session_15": {
+            "Jon": [
+                "Jon holds an official opening night for his dance studio."
+            ],
+            "Gina": [],
+            "date": "19 June, 2023"
+        },
+        "events_session_16": {
+            "Jon": [
+                "Jon decides to attend networking events to make connections for his business venture."
+            ],
+            "Gina": [
+                "Gina creates unique limited-edition pieces to show off her skills."
+            ],
+            "date": "21 June, 2023"
+        },
+        "events_session_17": {
+            "Jon": [
+                "Jon starts to learn how to use modern tools and software for marketing and analytics."
+            ],
+            "Gina": [
+                "Gina starts to get recognized by fashion editors."
+            ],
+            "date": "9 July, 2023"
+        },
+        "events_session_18": {
+            "Jon": [
+                "Jon takes up a temporary job to cover his expenses while waiting for investors.",
+                "Jon starts working on an online platform to showcase his dance studio."
+            ],
+            "Gina": [
+                "Gina creates a new website for her customers to make orders."
+            ],
+            "date": "21 July, 2023"
+        },
+        "events_session_19": {
+            "Jon": [],
+            "Gina": [
+                "Gina takes a dance class with a group of friends."
+            ],
+            "date": "23 July, 2023"
+        }
+    },
+    "observation": {
+        "session_1_observation": {
+            "Gina": [
+                [
+                    "Gina lost her job at Door Dash during the month of the conversation.",
+                    "D1:3"
+                ],
+                [
+                    "Gina used to compete in dance competitions and shows, winning first place in a regional competition at the age of fifteen.",
+                    "D1:17"
+                ],
+                [
+                    "Gina's favorite dance style is contemporary.",
+                    "D1:9"
+                ]
+            ],
+            "Jon": [
+                [
+                    "Jon lost his job as a banker the day before the conversation.",
+                    "D1:2"
+                ],
+                [
+                    "Jon is starting his own dance studio due to his passion for dancing.",
+                    "D1:4"
+                ],
+                [
+                    "Jon's favorite dance style is contemporary.",
+                    "D1:8"
+                ],
+                [
+                    "Jon practices various dances with a small group, including contemporary and hip-hop, and is working on choreography for a nearby festival.",
+                    "D1:24"
+                ]
+            ]
+        },
+        "session_2_observation": {
+            "Gina": [
+                [
+                    "Gina launched an ad campaign for her clothing store in hopes of growing the business.",
+                    "D2:1"
+                ],
+                [
+                    "Gina started her own clothing store and finds taking risks scary but rewarding.",
+                    "D2:1"
+                ],
+                [
+                    "Gina appreciates seeing her vision for the store come to life.",
+                    "D2:3"
+                ],
+                [
+                    "Gina has been to Rome once.",
+                    "D2:5"
+                ],
+                [
+                    "Gina believes that good flooring helps avoid injuries and makes dancing more enjoyable.",
+                    "D2:7"
+                ],
+                [
+                    "Gina appreciates Jon's determination to make his dance studio work.",
+                    "D2:11"
+                ]
+            ],
+            "Jon": [
+                [
+                    "Jon is looking for the ideal spot for his dance studio and is considering features like size, natural light, and flooring.",
+                    "D2:4"
+                ],
+                [
+                    "Jon visited Paris recently",
+                    "D2:4"
+                ],
+                [
+                    "Jon is looking for Marley flooring for his dance studio due to its grip, movement, durability, and cleanliness.",
+                    "D2:8"
+                ],
+                [
+                    "Jon finds the process of setting up his dance studio a mix of exciting and nerve-wracking but is determined to make it work.",
+                    "D2:10"
+                ],
+                [
+                    "Jon believes in himself and is grateful for Gina's support.",
+                    "D2:12"
+                ]
+            ]
+        },
+        "session_3_observation": {
+            "Jon": [
+                [
+                    "Jon is following his passion for dance and searching for a place to open his dance studio.",
+                    "D3:1"
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina is enthusiastic about expanding her clothing store and successfully got a positive response from a wholesaler.",
+                    "D3:2"
+                ],
+                [
+                    "Gina designed her clothing store space to be cozy and inviting for her customers.",
+                    "D3:4"
+                ],
+                [
+                    "Gina chose furniture and decor for her store that match her style and make customers feel comfortable.",
+                    "D3:6"
+                ],
+                [
+                    "Gina's goal is to create a comfortable and inviting shopping experience for her customers.",
+                    "D3:8"
+                ]
+            ]
+        },
+        "session_4_observation": {
+            "Jon": [
+                [
+                    "Jon is working hard on his business despite facing obstacles.",
+                    "D4:3"
+                ],
+                [
+                    "Jon is determined to make his business successful and reach his dreams.",
+                    "D4:5"
+                ],
+                [
+                    "Jon is searching for a dance studio location and is determined to find the right spot.",
+                    "D4:9"
+                ],
+                [
+                    "Jon is working on new dance routines and rehearsing hard for an upcoming show.",
+                    "D4:11"
+                ],
+                [
+                    "Jon is passionate about dancing and it brings him joy and fulfillment.",
+                    "D4:11"
+                ],
+                [
+                    "Jon is preparing for a dance competition near him next month to showcase his skills.",
+                    "D4:13"
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina's store is doing great and it's a wild ride.",
+                    "D4:2"
+                ],
+                [
+                    "Gina encourages Jon to keep pushing, assuring him he'll reach his dreams.",
+                    "D4:4"
+                ],
+                [
+                    "Gina supports Jon through setbacks and encourages him not to give up.",
+                    "D4:6"
+                ],
+                [
+                    "Gina is supportive of Jon and assures him that setbacks can be overcome.",
+                    "D4:6"
+                ],
+                [
+                    "Gina expresses full support for Jon and encourages him not to give up.",
+                    "D4:6"
+                ],
+                [
+                    "Gina encourages Jon to hang in there while searching for the perfect dance studio location.",
+                    "D4:10"
+                ],
+                [
+                    "Gina compliments Jon's talent and expresses confidence in his success in the upcoming dance competition.",
+                    "D4:14"
+                ]
+            ]
+        },
+        "session_5_observation": {
+            "Gina": [
+                [
+                    "Gina owns a store where she sells fashion pieces.",
+                    "D5:1"
+                ],
+                [
+                    "Gina has an online store and recently teamed up with a local artist for some cool designs.",
+                    "D5:5"
+                ],
+                [
+                    "Gina got a tattoo a few years ago that stands for freedom and a reminder to follow her passions and express herself.",
+                    "D5:15"
+                ]
+            ],
+            "Jon": [
+                [
+                    "Jon is a dancer who runs his own dance studio.",
+                    "D5:4"
+                ],
+                [
+                    "Jon left his secure 9-5 job as a banker to pursue his passion for dancing and turn it into a business.",
+                    "D5:10"
+                ],
+                [
+                    "Jon finds joy and passion in dancing.",
+                    "D5:2"
+                ],
+                [
+                    "Jon believes taking risks is essential for success and transformation.",
+                    "D5:8"
+                ],
+                [
+                    "Jon juggles between running his dance studio and pursuing business goals, finding it rewarding and energizing.",
+                    "D5:20"
+                ]
+            ]
+        },
+        "session_6_observation": {
+            "Jon": [
+                [
+                    "Jon started hitting the gym last week to stay on track with a venture.",
+                    "D6:1"
+                ],
+                [
+                    "Jon lost his job at Door Dash.",
+                    "D6:4"
+                ],
+                [
+                    "Jon is starting his own business after losing his job and finds it tough but fulfilling.",
+                    "D6:11"
+                ],
+                [
+                    "Jon finds Gina's success inspiring and her determination awesome.",
+                    "D6:13"
+                ],
+                [
+                    "Jon feels motivated by facing similar challenges to Gina and considers her like a partner in this journey.",
+                    "D6:15"
+                ],
+                [
+                    "Jon is encouraged by Gina's journey and finds it inspiring.",
+                    "D6:19"
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina lost her job at Door Dash.",
+                    "D6:4"
+                ],
+                [
+                    "Gina opened an online clothes store which she had been dreaming of for a while.",
+                    "D6:6"
+                ],
+                [
+                    "Gina is passionate about fashion trends and unique pieces, and she blended her love for dance and fashion in starting the online store.",
+                    "D6:8"
+                ],
+                [
+                    "Gina finds starting and running her own business to be a rollercoaster ride with its ups and downs.",
+                    "D6:12"
+                ],
+                [
+                    "Gina feels inspired by Jon's determination and success, and his words of encouragement mean a lot to her.",
+                    "D6:14"
+                ],
+                [
+                    "Gina sees Jon as someone on a different path but appreciates having him as someone to root for and support each other.",
+                    "D6:16"
+                ],
+                [
+                    "Gina values having someone like Jon to back her up and encourages each other to chase their dreams and achieve great things together.",
+                    "D6:18"
+                ]
+            ]
+        },
+        "session_7_observation": {
+            "Jon": [
+                [
+                    "Jon has a dance studio business where he helps his students learn and reach their goals.",
+                    "D7:7"
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina runs an online clothing store and has been keeping up with fashion trends to offer the best pieces to customers.",
+                    "D7:4"
+                ],
+                [
+                    "Gina values building relationships and creating a strong brand image for her store.",
+                    "D7:6"
+                ]
+            ]
+        },
+        "session_8_observation": {
+            "Jon": [
+                [
+                    "Jon had to shut down his bank account for his business.",
+                    "D8:1"
+                ],
+                [
+                    "Jon is handling changes positively and looking ahead despite facing challenges.",
+                    "D8:3"
+                ],
+                [
+                    "Jon is expanding his dance studio's social media presence and offering workshops and classes to local schools and centers.",
+                    "D8:13"
+                ],
+                [
+                    "Jon is hosting a dance competition next month to showcase local talent and bring more attention to his studio.",
+                    "D8:13"
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina got new offers and promotions for her online store to attract new customers.",
+                    "D8:4"
+                ],
+                [
+                    "Dance is Gina's stress relief and fashion fuels her creativity.",
+                    "D8:6"
+                ],
+                [
+                    "Gina combines her passion for dance and fashion to show creativity and share love with others.",
+                    "D8:8"
+                ],
+                [
+                    "Gina is focused on building her customer base for her store by working with fashion bloggers, influencers, and running more ads.",
+                    "D8:12"
+                ],
+                [
+                    "Gina plans to work with fashion bloggers and influencers to get more attention for her store and do more ads to reach more people.",
+                    "D8:12"
+                ]
+            ]
+        },
+        "session_9_observation": {
+            "Jon": [
+                [
+                    "Jon is turning his passion for dance into a business by opening a dance studio.",
+                    "D9:1"
+                ],
+                [
+                    "Jon's determination to make the dance studio work was fueled by losing his job.",
+                    "D9:3"
+                ],
+                [
+                    "Jonathan finds happiness in dancing and expresses himself through it.",
+                    "D9:5"
+                ],
+                [
+                    "Jon used to be scared of what people would think, but now prioritizes his own happiness.",
+                    "D9:7"
+                ],
+                [
+                    "Jon loved taking dance lessons with friends when he was younger.",
+                    "D9:9"
+                ],
+                [
+                    "Jon values the special meaning dance has for himself and Gina, as a way to express themselves.",
+                    "D9:9"
+                ],
+                [
+                    "Jon is determined to keep pushing and working hard for his dance business.",
+                    "D9:13"
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina admires Jon for turning his passion for dance into a business.",
+                    "D9:2"
+                ],
+                [
+                    "Gina acknowledges that tough times can lead to great things and supports Jon in going after his dreams.",
+                    "D9:4"
+                ],
+                [
+                    "Gina loves spending time in the dance studio and values dance as a way to express oneself and find happiness.",
+                    "D9:8"
+                ],
+                [
+                    "Gina has a trophy from a dance contest as a reminder of the hard work, dedication, and joy dance brings.",
+                    "D9:10"
+                ],
+                [
+                    "Gina encourages Jon to keep up his hard work and achievements.",
+                    "D9:12"
+                ]
+            ]
+        },
+        "session_10_observation": {
+            "Jon": [
+                [
+                    "Jon has a studio business that he showed off at a fair recently.",
+                    "D10:1"
+                ],
+                [
+                    "Jon considers having confidence in oneself important for business success.",
+                    "D10:1"
+                ],
+                [
+                    "Jon is having trouble with his business project and seeks advice on staying motivated.",
+                    "D10:5"
+                ],
+                [
+                    "Jon is feeling low on confidence lately and seeks advice from Gina on staying confident in business.",
+                    "D10:7"
+                ],
+                [
+                    "Jon is talented and passionate about dance, as per Gina's encouragement.",
+                    "D10:10"
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina started her own online clothing store after losing her job to take control of her destiny.",
+                    "D10:2"
+                ],
+                [
+                    "Gina finds setbacks tough but rewarding for growth.",
+                    "D10:4"
+                ],
+                [
+                    "Gina advises Jon to focus on the big goal, get support, and dance it out to stay motivated during tough times in business.",
+                    "D10:6"
+                ],
+                [
+                    "Gina gives Jon tips to stay confident in business by reminding of successes and progress, having a good support system, and having faith in oneself.",
+                    "D10:8"
+                ],
+                [
+                    "Gina encourages Jon to believe in himself, tackle obstacles, and keep shining in pursuing his dreams.",
+                    "D10:10"
+                ]
+            ]
+        },
+        "session_11_observation": {
+            "Jon": [
+                [
+                    "Jon lost his job but used it as an opportunity to start his dream business: a dance studio.",
+                    "D11:3"
+                ],
+                [
+                    "Dance has been Jon's stress-buster since childhood.",
+                    "D11:5"
+                ],
+                [
+                    "Jon sees dancing as where he feels most alive and considers it a must-have in his life.",
+                    "D11:7"
+                ],
+                [
+                    "Having his own dance studio and teaching others is a dream come true for Jon.",
+                    "D11:9"
+                ],
+                [
+                    "Jon hopes to create a place for people to dance and express themselves, as it's been a dream of his.",
+                    "D11:11"
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina finds dancing as her stress fix and something that makes her worries vanish.",
+                    "D11:6"
+                ],
+                [
+                    "Dance is essential to Gina, and she compares it to being like air.",
+                    "D11:8"
+                ],
+                [
+                    "Gina had an interview for a design internship and found it to be great.",
+                    "D11:14"
+                ],
+                [
+                    "Gina is proud of Jon and is excited about his dance studio project.",
+                    "D11:20"
+                ]
+            ]
+        },
+        "session_12_observation": {
+            "Gina": [
+                [
+                    "Gina got accepted for a fashion internship at a part-time position in the fashion department of an international company.",
+                    "D12:1"
+                ]
+            ],
+            "Jon": [
+                [
+                    "Jon is reading the book \"The Lean Startup\" and hoping to get tips for his business.",
+                    "D12:6"
+                ],
+                [
+                    "Jon is working on a business plan and looking for investors for his project.",
+                    "D12:12"
+                ]
+            ]
+        },
+        "session_13_observation": {
+            "Jon": [
+                [
+                    "Jon is prepping for his own dance studio.",
+                    "D13:3"
+                ],
+                [
+                    "Jon wants his dance studio to be a place of support and encouragement for all dancers.",
+                    "D13:5"
+                ],
+                [
+                    "Jon is offering one-on-one mentoring and training to help dancers reach their full potential.",
+                    "D13:7"
+                ],
+                [
+                    "Jon uses a mentor, goal setting, tracking achievements, and finding areas for improvement to stay organized and motivated.",
+                    "D13:11"
+                ],
+                [
+                    "Jon uses a whiteboard to stay on track, visualize goals, and reward successes.",
+                    "D13:13"
+                ],
+                [
+                    "Jon color-codes achievements to easily track progress and stay motivated.",
+                    "D13:15"
+                ],
+                [
+                    "Jon feels that support and guidance can help dancers shine.",
+                    "D13:9"
+                ],
+                [
+                    "Jon uses the system of goal setting, tracking achievements, and visualization to stay motivated and focused.",
+                    "D13:13"
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina has developed a video presentation to teach how to style her fashion pieces.",
+                    "D13:4"
+                ],
+                [
+                    "Gina highlights the importance of staying positive and believes in supporting others' dreams.",
+                    "D13:20"
+                ],
+                [
+                    "Gina values mentorship, having had a mentor herself when learning how to dance.",
+                    "D13:8"
+                ],
+                [
+                    "Gina encourages Jon to keep pushing for his dreams and not give up.",
+                    "D13:22"
+                ],
+                [
+                    "Gina supports Jon and believes in him.",
+                    "D13:1"
+                ]
+            ]
+        },
+        "session_14_observation": {
+            "Jon": [
+                [
+                    "Jon got mentored by a business person, which was inspiring for him.",
+                    "D14:1"
+                ],
+                [
+                    "Jon is working on promoting his business.",
+                    "D14:3"
+                ],
+                [
+                    "Jon posted dance videos on social media which created a stir.",
+                    "D14:5"
+                ],
+                [
+                    "Jon is passionate about dance and loves performing.",
+                    "D14:15"
+                ],
+                [
+                    "Jon finds Gina's encouragement motivating and it helps him keep going.",
+                    "D14:13"
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina is working on growing the customer base for her online store.",
+                    "D14:2"
+                ],
+                [
+                    "Gina lost her job, started an online clothing store, and enjoys being her own boss.",
+                    "D14:8"
+                ],
+                [
+                    "Gina advises Jon to stay passionate, focused, resilient, and open to learning for entrepreneurship.",
+                    "D14:10"
+                ],
+                [
+                    "Gina believes staying resilient and focused is key for entrepreneurs.",
+                    "D14:12"
+                ],
+                [
+                    "Gina shares a pic of herself dancing and mentions the tough but worth it journey.",
+                    "D14:14"
+                ],
+                [
+                    "Gina encourages Jon to keep going after his dreams.",
+                    "D14:16"
+                ]
+            ]
+        },
+        "session_15_observation": {
+            "Jon": [
+                [
+                    "Jon recently took a short trip to Rome to clear his mind.",
+                    "D15:1"
+                ],
+                [
+                    "Jon is working on opening a dance studio, with the official opening night being tomorrow.",
+                    [
+                        "D15:3",
+                        "D15:5"
+                    ]
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina supports Jon's opening of the dance studio and expresses excitement for the launch.",
+                    "D15:6"
+                ],
+                [
+                    "Gina mentions she loves being around friends and having a great time.",
+                    "D15:16"
+                ]
+            ]
+        },
+        "session_16_observation": {
+            "Gina": [
+                [
+                    "Gina has a store where she acquired new unique pieces.",
+                    "D16:1"
+                ],
+                [
+                    "Gina made a limited edition line of clothing last week to show off her style and creativity.",
+                    "D16:3"
+                ],
+                [
+                    "Gina's design in her clothing line reminds her of the grit needed to stand out and face challenges.",
+                    "D16:5"
+                ]
+            ],
+            "Jon": [
+                [
+                    "Jon has been attending networking events to make things happen after losing his job.",
+                    "D16:6"
+                ],
+                [
+                    "Jon is investing his time in his business and believes it will eventually pay off.",
+                    "D16:8"
+                ],
+                [
+                    "Jon is writing down all his plans and goals to stay organized and motivated.",
+                    "D16:10"
+                ],
+                [
+                    "Jon finds that writing down his goals helps him stay motivated and focused.",
+                    "D16:12"
+                ]
+            ]
+        },
+        "session_17_observation": {
+            "Gina": [
+                [
+                    "Gina got noticed by fashion editors last week.",
+                    "D17:1"
+                ],
+                [
+                    "Gina believes that stumbling blocks can sometimes be opened doors.",
+                    "D17:3"
+                ],
+                [
+                    "Gina supports and encourages Jon in his business dreams.",
+                    "D17:4"
+                ],
+                [
+                    "Gina considers Jon to be the perfect mentor and guide for aspiring dancers.",
+                    "D17:7"
+                ],
+                [
+                    "Gina is part of a solid community that cheers Jon on.",
+                    "D17:9"
+                ],
+                [
+                    "Gina believes Jon has potential and encourages him not to let anything stop him.",
+                    "D17:11"
+                ],
+                [
+                    "Gina roots for Jon to keep going and make his dreams a reality, even when facing bumps in the road.",
+                    "D17:15"
+                ]
+            ],
+            "Jon": [
+                [
+                    "Jon mentioned losing his job but is determined to pursue his business dreams.",
+                    "D17:4"
+                ],
+                [
+                    "Jon started learning marketing and analytics tools to push his business forward.",
+                    "D17:4"
+                ],
+                [
+                    "Jon aspires to guide and mentor aspiring dancers on their dreams.",
+                    "D17:6"
+                ],
+                [
+                    "Jon believes dance has the power to bring people together and create sweet moments.",
+                    "D17:8"
+                ],
+                [
+                    "Jon values the support and encouragement from Gina and the community in pursuing his dreams.",
+                    "D17:10"
+                ],
+                [
+                    "Jon is determined not to let anything or anyone stop him from making his dreams come true.",
+                    "D17:16"
+                ],
+                [
+                    "Jon expresses gratitude for Gina's belief in him and considers her a great friend.",
+                    "D17:16"
+                ]
+            ]
+        },
+        "session_18_observation": {
+            "Gina": [
+                [
+                    "Gina built a new website for customers to make orders for her clothing store last week.",
+                    "D18:1"
+                ],
+                [
+                    "Gina faced challenges in her business, particularly in sourcing trendy pieces which required research and networking.",
+                    "D18:5"
+                ],
+                [
+                    "Gina advised Jon not to be scared to reach out to people in his field for help and contacts, stressing the importance of networking.",
+                    "D18:5"
+                ],
+                [
+                    "Gina met some investors and got good advice at a recent networking event.",
+                    "D18:8"
+                ],
+                [
+                    "Gina offered to help Jon with making content and managing his social media accounts for his dance studio.",
+                    "D18:13"
+                ],
+                [
+                    "Gina expressed excitement to collaborate with Jon on making the dance studio shine and making a difference in the world.",
+                    "D18:17"
+                ]
+            ],
+            "Jon": [
+                [
+                    "Jon's dance studio is on tenuous grounds, but he is staying positive and looking for investors.",
+                    "D18:2"
+                ],
+                [
+                    "Jon is networking and updating his business plan and pitch to investors based on advice received.",
+                    "D18:10"
+                ],
+                [
+                    "Jon is working on an online platform to showcase the dance studio's offerings.",
+                    "D18:10"
+                ],
+                [
+                    "Jon expressed a need for marketing strategies, seeking advice on reaching his target audience and raising awareness for the dance studio.",
+                    "D18:12"
+                ],
+                [
+                    "Jon plans to collaborate with Gina on making content and managing his social media accounts to promote the dance studio.",
+                    "D18:14"
+                ],
+                [
+                    "Jon expressed gratitude for Gina's support.",
+                    "D18:22"
+                ]
+            ]
+        },
+        "session_19_observation": {
+            "Jon": [
+                [
+                    "Jon has been rehearsing hard and working on business plans.",
+                    "D19:1"
+                ],
+                [
+                    "Dancing has kept Jon going during stressful times.",
+                    "D19:1"
+                ],
+                [
+                    "Jon is working on opening a studio for dancers of all ages and backgrounds.",
+                    "D19:7"
+                ]
+            ],
+            "Gina": [
+                [
+                    "Gina encouraged Jon to keep up the good work and not forget his passion for dance.",
+                    "D19:6"
+                ],
+                [
+                    "Gina is supportive of Jon's dream of opening a dance studio.",
+                    "D19:10"
+                ]
+            ]
+        }
+    },
+    "session_summary": {
+        "session_1_summary": "Gina and Jon met at 4:04 pm on 20 January, 2023. Jon lost his job as a banker and planned to start a dance studio because of his passion for dancing. Gina also lost her job at Door Dash. They both shared a love for dance, with Jon's favorite style being contemporary. They planned to attend a dance class together. Jon showed Gina a photo of his dance crew winning a competition. Gina revealed her experience of winning first place with a contemporary piece in a dance competition. Jon mentioned rehearsing with a group for various dance styles and upcoming projects, including a performance at a festival. Gina complimented the group's grace and expressed excitement for their festival performance. They both shared enthusiasm for the upcoming events.",
+        "session_2_summary": "Gina and Jon had a conversation at 2:32 pm on 29 January, 2023. Gina mentioned launching an ad campaign for her clothing store, excited about the risks and rewards of her business. Jon complimented her hard work and discussed his search for a suitable location for his dance studio, mentioning finding a spot with great natural light. They discussed the importance of features like flooring for dance studios, with Jon preferring Marley flooring. Gina encouraged Jon to believe in himself and take breaks when needed. They both expressed determination to chase their dreams and achieve success.",
+        "session_3_summary": "At 12:48 am on 1 February 2023, Jon shared with Gina his determination to open a dance studio, while Gina revealed her success in expanding her clothing store. Gina showed Jon a picture of her new store, which he admired, and they discussed the design elements. Gina aimed to create a cozy and inviting space for her customers. They both emphasized the importance of creating a special experience for customers. Jon encouraged Gina to continue her hard work, and she reciprocated the support for his dance studio venture. They both expressed confidence in reaching their goals with hard work and determination.",
+        "session_4_summary": "Jon and Gina, at 10:43 am on 4 February, 2023, discussed Jon's business endeavors. While Jon faced obstacles, Gina encouraged him to persevere, mentioning setbacks as opportunities for comebacks. Jon mentioned his passion for dancing and preparation for an upcoming competition, with Gina supporting him wholeheartedly. They exchanged words of encouragement, with Jon expressing gratitude for Gina's help and Gina assuring him that his hard work and dedication will pay off. Gina emphasized belief in oneself, encouraging Jon to pursue his dreams relentlessly.",
+        "session_5_summary": "Gina and Jon caught up at 9:32 am on 8 February, 2023. Gina shared about a new fashion piece for her store, while Jon told her about his dance performance. Jon spoke about his passion for running a dance studio and how fulfilling it is to see his students progress. Gina complimented Jon on his dedication and creativity, while Jon praised Gina for her willingness to take risks in her business. They both agreed that taking risks is essential for success. Jon shared his ambition to turn his passion for dance into a business. Gina supported Jon, reminding him not to give up on his dreams. They discussed the importance of freedom in expressing themselves through dance. Jon mentioned the challenges of balancing his dance and business goals but finds it rewarding. Gina encouraged Jon to keep going and not stop dreaming. They both expressed mutual support and determination to chase their dreams and move forward.",
+        "session_6_summary": "Jon and Gina, at 2:35 pm on 16 March 2023, caught up on their recent activities. Jon mentioned starting at the gym to balance his ventures, while Gina revealed she had a tough time after losing her job at Door Dash but had exciting news about opening an online clothes store. The two discussed their entrepreneurial journeys, with Gina blending her passion for fashion and dance into her store, and Jon facing challenges but staying determined to succeed. They both found inspiration in each other's perseverance and decided to support each other in reaching their goals. Jon and Gina expressed mutual encouragement and determination to pursue their dreams together.",
+        "session_7_summary": "Jon and Gina had a conversation at 7:28 pm on 23 March, 2023. Gina mentioned her successful online clothing store, highlighting the hard work and dedication it requires to start a business. Jon shared his struggles with his dance studio business but expressed determination to succeed. They discussed tips for running a successful business, emphasizing the importance of brand identity, customer relationships, and positivity. Jon credited Gina for her support and motivation, showing appreciation for her involvement in his business journey. Gina encouraged Jon to stay motivated and believe in himself. Both ended the conversation on a positive note, with Jon expressing gratitude for Gina's encouragement.",
+        "session_8_summary": "Jon informed Gina at 1:26 pm on 3 April, 2023, that he had closed his bank account for his business. Gina expressed sympathy and inquired about how he was coping with the changes, to which Jon responded positively, mentioning it was a tough decision but necessary for business growth. They discussed Gina's new offers on her online store related to fashion and dance, which she combines due to her passion for both. They also delved into strategies, like working with influencers for Gina and expanding the social media presence for Jon's dance studio, with plans for an upcoming dance competition. They supported each other's endeavors and parted ways with encouragement and plans to meet at Jon's event.",
+        "session_9_summary": "Jon, who lost his job, has turned his love for dance into a business and is determined to make his dance studio successful. He has been investing a lot of time in the studio and is happy to see his students improving. Gina has been supportive of Jon's journey, recalling her own love for dance in the past. Both agree that dance is a fantastic way to express themselves and find happiness. Jon appreciates Gina's support and encouragement as he continues to push himself to succeed in his new venture.",
+        "session_10_summary": "Jon informed Gina about his experience at a fair displaying his studio, emphasizing the challenges and rewards of his business. Gina congratulated Jon, mentioning her own online clothing store after losing her job. Jon sought advice on staying motivated during tough times and boosting confidence. Gina advised focusing on the big goal, seeking support, recalling successes, and staying passionate. Jon appreciated the guidance and resolved to maintain confidence in pursuing his dreams. The conversation between Jon and Gina depicted mutual support, encouragement, and determination to overcome obstacles and achieve success.",
+        "session_11_summary": "At 3:14 pm on 11 May 2023, Jon and Gina had an inspiring conversation about Jon's new dance studio. Jon shared his journey of starting his dream business after losing his job. Gina commended his determination and encouraged him to keep going. They both connected over their love for dance as a stress-reliever. Jon expressed his passion for dance and how it keeps him motivated. Gina shared her exciting news about a design internship interview. Jon offered to show Gina a dance routine, and she eagerly agreed. They promised to support each other, with Jon updating Gina on the studio progress and sending her a video of his routine soon.",
+        "session_12_summary": "Gina and Jon caught up at 7:18 pm on 27 May, 2023. Gina shared her excitement about getting a fashion internship with an international company, while Jon congratulated her and talked about his business plans. Jon mentioned reading \"The Lean Startup\" for tips, and they discussed ideas for his dance studio. Jon showed Gina his whiteboard of ideas and plans. They spoke about the importance of staying organized and motivated. Jon shared his struggles with finding investors but emphasized his determination. Gina encouraged Jon to keep learning and growing. Jon appreciated her support and vowed to persevere. Gina cheered him on, emphasizing the importance of overcoming obstacles. The conversation highlighted their support for each other's goals and aspirations.",
+        "session_13_summary": "Jon expressed gratitude to Gina at 8:29 pm on 13 June, 2023, for her unwavering belief in him. Gina commended Jon for his venture into opening a dance studio, and the two discussed their methods of staying organized and motivated. Jon shared that he offers one-on-one mentoring at the studio to help dancers excel, and Gina mentioned creating a video presentation for styling fashion pieces. They both emphasized the importance of support and positivity in achieving goals and encouraged each other to keep pursuing their dreams.",
+        "session_14_summary": "On 16th June 2023 at 9:38 pm, Jon told Gina about being mentored by a business person, leading him to pursue his dreams. Gina updated Jon on her online store progress, giving him tips on marketing. Jon followed her advice, got success with his dance videos, and sought Gina's entrepreneurship advice. Gina shared her journey as an entrepreneur and encouraged Jon to stay focused, resilient, and passionate. They exchanged motivating words, with Jon reaffirming his commitment to his dreams and Gina supporting him. Their conversation emphasized the importance of perseverance and passion in pursuing goals.",
+        "session_15_summary": "Jon mentioned his upcoming dance studio's grand opening on 20 June and Gina congratulated him on his hard work. They expressed excitement about making memories at the event and looked forward to enjoying it together. Gina praised Jon's progress and support, while Jon appreciated her encouragement. The conversation ended with both eagerly anticipating the grand opening and agreeing to meet there the next day.",
+        "session_16_summary": "At 2:15 pm on 21 June, 2023, Gina informed Jon about new unique pieces for her store. Jon congratulated Gina on her store and inquired about a hoodie, which Gina clarified was from her collection. Gina mentioned creating a limited edition line to showcase her style and creativity. Jon shared attending networking events to progress after losing his job. Gina praised Jon's determination, and they discussed the importance of perseverance and tracking goals. Jon appreciated Gina's support, which motivated him to stay focused and achieve his goals. Gina encouraged Jon to keep persevering and believing in himself. Jon expressed gratitude for Gina's support, feeling confident and determined not to give up.",
+        "session_17_summary": "At 1:25 pm on 9 July, 2023, Gina and Jon caught up with Gina sharing her fashion success and Jon discussing his plans to go full-time with his business idea after losing his job. Gina encouraged Jon, emphasizing that stumbling blocks can lead to new opportunities. Jon expressed gratitude for Gina's support and mentioned his goal to mentor aspiring dancers. Gina praised Jon's positivity and determination, emphasizing community support in achieving dreams. Jon thanked Gina for her unwavering faith, promising not to give up. They exchanged encouraging words, with Gina rooting for Jon to overcome obstacles and achieve his dreams. Jon affirmed he would persevere, driven by their support. The conversation ended with mutual appreciation and well wishes.",
+        "session_18_summary": "Gina and Jon caught up at 5:44 pm on 21 July, 2023. Gina shared about her new website for customer orders, while Jon mentioned his struggles with the dance studio. Gina encouraged Jon to stay positive and network for investors. They discussed the importance of networking, with Gina offering advice on marketing strategies. Jon sought Gina's help with content creation and social media management for the dance studio. They excitedly planned to collaborate and make a difference together in the dance world.",
+        "session_19_summary": "Jon and Gina caught up at 6:46 pm on 23 July, 2023. Jon shared his stress about rehearsals and business plans but found solace in dancing. Gina encouraged him with motivational words from Shia Labeouf, emphasizing the importance of creating a space for dancers. Jon appreciated Gina's support and looked forward to opening his dance studio. Gina continued to motivate Jon, reminding him to never give up. The conversation ended with Jon feeling motivated and ready to \"just do it\", as Gina encouraged him to do."
+    },
+    "sample_id": "conv-30"
+}
